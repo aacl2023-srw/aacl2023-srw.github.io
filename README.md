@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## NAACL 2019 Student Research Workshop
+The 2019 NAACL Student Research Workshop (SRW) will be held in conjunction with [NAACL HLT 2019](http://naacl2019.org) in Minneapolis, USA. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
-You can use the [editor on GitHub](https://github.com/naacl2019-srw/naacl2019-srw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+And contact us via [e-mail](naacl-2019-student-research-workshop@googlegroups.com) for any questions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Student Chairs
+Sudipta Kar, University of Houston, USA
+Farah Nadeem, University of Washington, USA
+Laura Wendlandt, University of Michigan, USA
+### Faculty Advisors 
+Greg Durrett, University of Texas at Austin, USA
+Na-Rae Han, University of Pittsburgh, USA
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/naacl2019-srw/naacl2019-srw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Anti-Harassment Policy
+The 2019 NAACL Student Research Workshop adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](acl@aclweb.org) if you face any harassment or hostile behavior.
