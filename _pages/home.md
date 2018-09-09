@@ -4,12 +4,12 @@ The 2019 NAACL Student Research Workshop (SRW) will be held in conjunction with 
 And contact us via [e-mail](naacl-2019-student-research-workshop@googlegroups.com) for any questions.
 
 ### Student Chairs
-Sudipta Kar, University of Houston, USA
-Farah Nadeem, University of Washington, USA
-Laura Wendlandt, University of Michigan, USA
+- Sudipta Kar, University of Houston, USA</br>
+- Farah Nadeem, University of Washington, USA
+- Laura Wendlandt, University of Michigan, USA
 ### Faculty Advisors 
-Greg Durrett, University of Texas at Austin, USA
-Na-Rae Han, University of Pittsburgh, USA
+- Greg Durrett, University of Texas at Austin, USA
+- Na-Rae Han, University of Pittsburgh, USA
 
 
 ## Anti-Harassment Policy

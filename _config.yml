@@ -4,7 +4,7 @@ locale                   : "en"
 title                    : "NAACL 2019 SRW"
 title_separator          : "-"
 name                     : "ACL"
-description              : "NAACL 2019 Student Research Workshop"
+description              : "NAACL 2019 Student Research Workshop in conjunction with NAACL HLT 2019 in Minneapolis, USA" 
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
