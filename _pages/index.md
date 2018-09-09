@@ -4,18 +4,21 @@ permalink: /
 ---
 
 
-## NAACL 2019 Student Research Workshop
+## Welcome to NAACL 2019 SRW
 The 2019 NAACL Student Research Workshop (SRW) will be held in conjunction with [NAACL HLT 2019](http://naacl2019.org) in Minneapolis, USA. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
 And contact us via [e-mail](naacl-2019-student-research-workshop@googlegroups.com) for any questions.
 
+We will update this site when latest information are available.
+
 ### Student Chairs
-- Sudipta Kar, University of Houston, USA</br>
-- Farah Nadeem, University of Washington, USA
-- Laura Wendlandt, University of Michigan, USA
+- [Sudipta Kar](http://sudiptakar.info/), University of Houston, USA
+- [Farah Nadeem](https://sites.google.com/site/nadeemf0755/home), University of Washington, USA
+- [Laura Wendlandt](http://wendlandt.github.io/), University of Michigan, USA
+
 ### Faculty Advisors 
-- Greg Durrett, University of Texas at Austin, USA
-- Na-Rae Han, University of Pittsburgh, USA
+- [Greg Durrett](http://www.cs.utexas.edu/~gdurrett/), University of Texas at Austin, USA
+- [Na-Rae Han](http://www.pitt.edu/~naraehan/), University of Pittsburgh, USA
 
 
 ## Anti-Harassment Policy
