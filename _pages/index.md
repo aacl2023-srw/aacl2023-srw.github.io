@@ -7,7 +7,7 @@ permalink: /
 ## Welcome to NAACL 2019 SRW
 The 2019 NAACL Student Research Workshop (SRW) will be held in conjunction with [NAACL HLT 2019](http://naacl2019.org) in Minneapolis, USA. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
-And contact us via [e-mail](naacl-2019-student-research-workshop@googlegroups.com) for any questions.
+And contact us via [Google Group](https://groups.google.com/forum/#!forum/naacl-2019-student-research-workshop) for any questions.
 
 We will update this site when latest information are available.
 
