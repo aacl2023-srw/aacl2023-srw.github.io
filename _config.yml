@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
-title                    : "NAACL 2019 Student Research Workshop"
+title                    : "NAACL Student Research Workshop 2019"
 title_separator          : "-"
 name                     : "ACL"
 description              : "In conjunction with NAACL HLT 2019 in Minneapolis, USA" 
