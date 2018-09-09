@@ -1,6 +1,5 @@
 ---
 title: "2019 NAACL Student Research Workshop (SRW)"
-layout: splash
 permalink: /
 ---
 
