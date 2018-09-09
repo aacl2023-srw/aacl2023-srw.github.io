@@ -32,3 +32,7 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
+# Reading Files
+include:
+  - .htaccess
+  - _pages
