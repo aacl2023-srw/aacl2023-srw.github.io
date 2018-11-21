@@ -36,3 +36,4 @@ naver_site_verification  :
 include:
   - .htaccess
   - _pages
+  
