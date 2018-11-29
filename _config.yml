@@ -20,7 +20,7 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "NAACL Student Research Workshop 2019"
+title                    : "NAACL Student Research Workshop (SRW) 2019"
 title_separator          : "-"
 name                     : "ACL"
 description              : "In conjunction with NAACL HLT 2019 in Minneapolis, USA" 
@@ -46,6 +46,9 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+# Google services
+google_analytics: UA-130089984-1
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -59,14 +62,6 @@ footer-links:
   dribbble:
   email: naacl2019-srw@googlegroups.com
   facebook: naaclsrw2019
-  flickr:
   github: naacl2019-srw
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
   twitter: 2019Srw
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
+  

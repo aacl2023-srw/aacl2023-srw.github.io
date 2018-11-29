@@ -29,5 +29,7 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 - Camera-ready papers due: April 1, 2019.
 
 
-__All deadlines are calculated at 11:59 pm (PST/GMT -8 hours)__
+__All deadlines are calculated at 11:59 pm (UTC-12 hours)__
+
+### Information related to submission could be found in [Author Guidelines](/author)
 
