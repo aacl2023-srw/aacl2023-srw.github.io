@@ -14,6 +14,8 @@ Get connected with us via [Facebook](https://www.facebook.com/naaclsrw2019) and 
 
 We will update this site when latest information are available.
 
+# Differences from Past SRWs
+The NAACL 2019 SRW has new submission options compared to past SRWs. Authors can now elect for both research papers and thesis proposals to be non-archival, in order to more explicitly encourage work in progress which can later be submitted to a future (archival) conference. These papers are otherwise treated the same as archival papers from a mentorship and reviewing standpoint. More details in the call for papers.
 
 ## Anti-Harassment Policy
 The NAACL Student Research Workshop 2019 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](acl@aclweb.org) if you face any harassment or hostile behavior.
