@@ -134,7 +134,7 @@ the years. You are the champions.
 
 
 __Acknowledgement__
-I want to thank Laura Burdick, Farah Nadeen, Greg Durrett, and Na-Rae Han for helping to prepare this blog. I also
+I want to thank Laura Burdick, Farah Nadeem, Greg Durrett, and Na-Rae Han for helping to prepare this blog. I also
 want to thank the researchers who gave us their time for sharing experiences.
 
 
