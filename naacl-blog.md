@@ -54,7 +54,7 @@ Rada Mihalcea and Ted Pedersen suggested the SRW to me. They gave a tutorial at 
 school: The National Institute of Astrophysics, Optics and Electronics. It was thanks to them, and to the sponsorship 
 provided by the ACL organization that I was able to attend, and I remain to this day, very grateful for that opportunity.
 
-Many years later, this student is part of the large CL community and serving as a program co-chair of 
+Many years later, this student still is part of the large CL community and serving as a program co-chair of 
 NAACL 2019. __Dr. Thamar Solorio__, who is now an Associate Professor at the University of Houston.
 She added,
 
