@@ -45,9 +45,26 @@ After 15 years, Dr. Naoki Yoshinaga is encouraging his students to participate i
    good feedback from the main conference audience.
 >
 
+__ACL-SRW, 2005__
+A student was presenting her paper at the event. According to her,
+> The very first ACL conference I attended was ACL 2005, in Michigan, Ann Arbor, where I presented a paper in the 
+Student Research Workshop (SRW). I wasn’t aware of the SRW. But a few months before the submission deadline, 
+Rada Mihalcea and Ted Pedersen suggested the SRW to me. They gave a tutorial at IBERAMIA 2004, the venue was my graduate 
+school: The National Institute of Astrophysics, Optics and Electronics. It was thanks to them, and to the sponsorship 
+provided by the ACL organization that I was able to attend, and I remain to this day, very grateful for that opportunity.
 
-__Dr. Kevin Duh__, who is a Senior Research Scientist at Johns Hopkins University Human Language Technology Center 
-of Excellence (HLTCOE), shares his inspiring story about SRW.
+Many years later, this student is part of the large CL community and serving as a program co-chair of 
+NAACL 2019. __Dr. Thamar Solorio__, who is now an Associate Professor at the University of Houston.
+She added,
+
+> Attending ACL 2005 had a long lasting impact on my career path. Before attending ACL that year, I’ve 
+presented a paper at COLING in 2004, and another one at CICLing 2004, but for some reason it was until I attended ACL 
+that year that it became clear to me that I wanted to be part of the *CL community. I was energized by the work 
+presented there, and by meeting so many great researchers. Almost 15 years later, I’m still part of this great community
+ that continues to grow every year.
+
+At the same event of ACL-SRW 2005, __Dr. Kevin Duh__, who is a Senior Research Scientist at Johns Hopkins University Human Language Technology Center 
+of Excellence (HLTCOE), presented his paper. Kevin Duh shares his inspiring story about SRW.
 
 > I have fond memories of SRW. I submitted one of my class projects to SRW when I was in the beginning of my graduate 
 school career. It was an opportunity for me to write the entire paper by myself, without relying on my PhD advisor's 
@@ -61,23 +78,6 @@ For the new students he added,
 > I would encourage starting students to submit to SRW by yourself (but only do so once, and do not rely on 
 your advisor too much); after that, shoot for *ACL and EMNLP!
 
-Kevin Duh's paper appeared at the ACL-SRW in 2005. At the same event, another student was presenting her paper. 
-According to her,
-> The very first ACL conference I attended was ACL 2005, in Michigan, Ann Arbor, where I presented a paper in the 
-Student Research Workshop (SRW). I wasn’t aware of the SRW. But a few months before the submission deadline, 
-Rada Mihalcea and Ted Pedersen suggested the SRW to me. They gave a tutorial at IBERAMIA 2004, the venue was my graduate 
-school: The National Institute of Astrophysics, Optics and Electronics. It was thanks to them, and to the sponsorship 
-provided by the ACL organization that I was able to attend, and I remain to this day, very grateful for that opportunity.
-
-Many years later, this student is one of the large CL community and serving as a program co-chair of 
-NAACL 2019. __Dr. Thamar Solorio__, who is now an Associate Professor at the University of Houston. She added,
-
-> Regardless, attending ACL 2005 had a long lasting impact on my career path. Before attending ACL that year, I’ve 
-presented a paper at COLING in 2004, and another one at CICLing 2004, but for some reason it was until I attended ACL 
-that year that it became clear to me that I wanted to be part of the *CL community. I was energized by the work 
-presented there, and by meeting so many great researchers. Almost 15 years later, I’m still part of this great community
- that continues to grow every year.
-
 
 The community is growing and participation in this workshop is also growing. Since 2000, it had the largest participation in 2005 
 and then in 2012. Since 2015, around 20 papers were accepted in most of the SRWs. 
@@ -86,9 +86,7 @@ and then in 2012. Since 2015, around 20 papers were accepted in most of the SRWs
 
 Topics of the accepted papers in SRWs are also interesting. According to Prof. Naoki Yoshinaga,
 > ACL-SRW papers are sometimes more exciting than ACL ones. ACL-SRW can accept ongoing research with new or
-   unconventional goals or approaches, since it does not care too much
-   about the solidness of research as ACL main conference does. As a
-   result, the accepted papers are some times more exciting to me.
+   unconventional goals or approaches ... The accepted papers are some times more exciting to me.
 
 
 These wordclouds are made of the paper titles from SRWs in different years.
@@ -108,7 +106,7 @@ But not everything goes perfect always. For example, Mohammad Salameh mentioned,
   presenting it to the mentor by recording it. 
 
 Thamar Solorio said, 
-> The actual experience of the SRW wasn’t that great. It turns out that the mentor assigned to provide expert feedback 
+> It turns out that the mentor assigned to provide expert feedback 
 on my research didn’t show up. My SRW mentor got stuck at the business meeting. Lucky for me, Mona Diab was a mentor 
 assigned to the other presenter in my session, and she graciously saved the day by providing on-the-spot feedback for 
 me. To this day, I’m a great fan of her and her work. 
@@ -132,6 +130,7 @@ the years. You are the champions.
 
 ![](blog/all_authors.png){:height="70%" width="70%"}
 
+We are eagerly waiting to welcome new faces in this exciting world of Computational Linguistics.
 
 __Acknowledgement__
 I want to thank Laura Burdick, Farah Nadeem, Greg Durrett, and Na-Rae Han for helping to prepare this blog. I also
