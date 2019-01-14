@@ -10,9 +10,11 @@ order : 1
 ![Wordcloud made of the titles of the papers presented at SRW since 2000](blog/wordcloud_all.png){:height="40%" width="40%"}
 
 One of the attractive sessions of ACL conferences is known as the Student Research Workshop (SRW).
-[ACL](https://aclweb.org/adminwiki/index.php?title=***_student_session_policies) describes the aim of this session to 
-allow the students to make their first important step towards becoming a computational linguist. The large CL community
+[ACL](https://aclweb.org/adminwiki/index.php?title=***_student_session_policies) describes the aim of this session as 
+allowing the students to make their first important step towards becoming a computational linguist. The large CL community
 treats this session as the welcoming hub for the next generation of computational linguists.
+
+We've asked some current researchers in the field who previously submitted to the SRW to share their experiences.
 
 __Dr. Mohammad Salameh__, a Machine Learning Engineer at Diffbot shares how he started his journey in Computational Linguistics
 through the SRW:
@@ -43,7 +45,6 @@ After 15 years, Dr. Naoki Yoshinaga is encouraging his students to participate i
    good feedback from the main conference audience.
 >
 
-How sweet !!!
 
 __Dr. Kevin Duh__, who is a Senior Research Scientist at Johns Hopkins University Human Language Technology Center 
 of Excellence (HLTCOE), shares his inspiring story about SRW.
@@ -78,12 +79,11 @@ presented there, and by meeting so many great researchers. Almost 15 years later
  that continues to grow every year.
 
 
-Yes, the community is growing and participation in this workshop is also growing. Since 2000, it had the largest participation in 2005 
+The community is growing and participation in this workshop is also growing. Since 2000, it had the largest participation in 2005 
 and then in 2012. Since 2015, around 20 papers were accepted in most of the SRWs. 
 ![Accepted papers over time](blog/plot_year_papers.png){:height="70%" width="70%"}
 
 
-Hope this number will increase over the upcoming years. 
 Topics of the accepted papers in SRWs are also interesting. According to Prof. Naoki Yoshinaga,
 > ACL-SRW papers are sometimes more exciting than ACL ones. ACL-SRW can accept ongoing research with new or
    unconventional goals or approaches, since it does not care too much
@@ -131,5 +131,10 @@ Thanks to all of the organizers, authors, and participants of the previous SRW e
 the years. You are the champions.
 
 ![](blog/all_authors.png){:height="70%" width="70%"}
+
+
+__Acknowledgement__
+I want to thank Laura Burdick, Farah Nadeen, Greg Durrett, and Na-Rae Han for helping to prepare this blog. I also
+want to thank the researchers who gave us their time for sharing experiences.
 
 
