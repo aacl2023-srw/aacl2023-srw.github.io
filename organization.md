@@ -16,7 +16,7 @@ order : 1
 - [Na-Rae Han](http://www.pitt.edu/~naraehan), University of Pittsburgh, USA
 
 ### Program Committee
-- Aaron Jaech (University of Washington)
+- Aaron Jaech (Facebook)
 - Aishwarya Padmakumar ( University of Texas at Austin)
 - Akshay Srivatsan (Carnegie Mellon University)
 - Alane Suhr (Cornell University)
@@ -36,6 +36,7 @@ order : 1
 - Katrin Erk (The University of Texas at Austin)
 - Kenton Murray (University of Notre Dame)
 - Kevin Lybarger (University of Washington)
+- Mari Ostendorf (University of Washington)
 - Maria Antoniak (Cornell University)
 - Marie-Catherine de Marneffe (Ohio State University)
 - Micha Elsner (Ohio State University)
@@ -48,6 +49,7 @@ order : 1
 - Swapna Somasundaran (Educational Testing Service)
 - Trang Tran (University of Washington)
 - Verónica Pérez-Rosas (University of Michigan)
+- Victoria (Vicky) Zayats (University of Washington)
 - Volkan Cirik (Carnegie Mellon University)
 - Yang Liu (Liulishuo)
 - Yasumasa Onoe (University of Texas at Austin)
