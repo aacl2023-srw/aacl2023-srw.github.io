@@ -4,6 +4,9 @@ title: "Frequently Asked Questions"
 permalink: /faq
 order : 1
 ---
+#### Q: Can I submit supplemental materials?
+__A:__ We do not allow any supplemental appendices, and the paper should stand alone without requiring any appendices. However, we do allow supplemental code and data submissions. Submissions should be made through Softconf.
+
 #### Q: Where should I submit for pre-submission mentoring?
 __A:__ You may e-mail __naacl-2019-student-research-workshop@googlegroups.com__ with the follow information:
 
