@@ -50,6 +50,7 @@ order : 1
 - Kevin Gimpel (Toyota Technological Institute at Chicago)
 - Kevin Lybarger (University of Washington)
 - Kevin Small (Amazon)
+- Labiba Jahan (Florida International University)
 - Mari Ostendorf (University of Washington)
 - Maria Antoniak (Cornell University)
 - Marie-Catherine de Marneffe (Ohio State University)
