@@ -28,6 +28,7 @@
             </tr>
             <tr><td>Submission deadline</td>
               <td>
+              
                 {% if sub < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = sub | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
