@@ -4,6 +4,9 @@ title: "Frequently Asked Questions"
 permalink: /faq
 order : 1
 ---
+### Q: What are the guidelines for the Camera-ready version?
+__A:__ Camera ready FAQs are available [here](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md).
+
 #### Q: Can I submit supplemental materials?
 __A:__ We do not allow any supplemental appendices, and the paper should stand alone without requiring any appendices. However, we do allow supplemental code and data submissions. Submissions should be made through Softconf.
 
