@@ -24,8 +24,11 @@ The NAACL 2019 SRW has new submission options compared to past SRWs. Authors can
 The NAACL Student Research Workshop 2019 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](acl@aclweb.org) if you face any harassment or hostile behavior.
 
 # Sponsored By       
-![Computing Research Association’s Computing Community Consortium (CCC)](images/ccc_hz copy.jpg)
-
+<!-- ![Computing Research Association’s Computing Community Consortium (CCC)](images/ccc_hz copy.jpg)
+![National Science Foundation](images/NSF_4-Color_bitmap_Logo.png =250x)
+ -->
+<img src="images/ccc_hz copy.jpg" alt="Computing Research Association’s Computing Community Consortium (CCC)" width="300"/>
+<img src="images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation" width="200"/>
 
 
 
