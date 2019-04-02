@@ -53,8 +53,8 @@ order : 1
 * __SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media__
 >_Rohan Mishra, Pradyumn Prakhar Sinha, Ramit Sawhney, Debanjan Mahata, Puneet Mathur and Rajiv Ratn Shah_
 
-* __EQUATE : A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference__
->_Abhilasha Ravichander, Aakanksha Naik, Carolyn Rose and Eduard Hovy_
+<!--* __EQUATE : A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference__
+>_Abhilasha Ravichander, Aakanksha Naik, Carolyn Rose and Eduard Hovy_ -->
 
 * __Deep Learning and Sociophonetics: Automatic Coding of Rhoticity Using Neural Networks__
 >_Sarah Gupta and Anthony DiPadova_
