@@ -30,6 +30,7 @@ The NAACL Student Research Workshop 2019 adheres to the [ACL anti-harassment pol
 <img src="images/ccc_hz copy.jpg" alt="Computing Research Association’s Computing Community Consortium (CCC)" width="300"/>
 <img src="images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation" width="200"/>
 <img src="images/nrc_canada_logo.png" alt="National Research Council, Canada" width="250" style="padding: 0 0 0 40px"/>
+<img src="images/google_logo.svg" alt="Google" width="250" style="padding: 0 0 0 40px"/>
 
 
 
