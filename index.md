@@ -12,7 +12,7 @@ The NAACL Student Research Workshop (SRW) 2019 will be held in conjunction with 
 
 ### Please find the accepted archival papers [here.](https://www.aclweb.org/anthology/events/naacl-2019/#n19-3)
 
-<img src="images/social_picture.jpeg" alt="Happy faces during the SRW Social in Minneapolis, Minnesota" width="60%"/></br>
+<img src="images/social_picture.jpeg" alt="Happy faces during the SRW Social in Minneapolis, Minnesota" width="60%"/> </br>
 _**Happy faces during the SRW Social in Minneapolis, Minnesota**_
 
 Contact us via [Google Group](https://groups.google.com/forum/#!forum/naacl-2019-student-research-workshop) for any questions.
