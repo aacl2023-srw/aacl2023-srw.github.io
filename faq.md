@@ -4,18 +4,20 @@ title: "Frequently Asked Questions"
 permalink: /faq
 order : 1
 ---
-### Q: Can I submit my non-archival accepted paper in other venues?
+#### Q: Can I submit my non-archival accepted paper in other venues?
 __A:__ Yes.
 
+<!--
 ### Q: In case the student author is unable to attend due to university examinations, is it possible for the equally contributing other author to apply for the travel grant? 
 __A:__ Yes.
+-->
 
 <!--
 ### Q: When would it be possible to know the status of the grant to look into applying for a visa, other planning?
 __A:__ We encourage to apply for visa soon and not to wait for the decision of travel grant. Visa application processes can take a long time. So start soon.
 -->
 
-### Q: What are the guidelines for the Camera-ready version?
+#### Q: What are the guidelines for the Camera-ready version?
 __A:__ Camera ready FAQs are available [here](https://github.com/acl-org/acl-pub/blob/gh-pages/camera-ready-faq.md).
 
 #### Q: Can I submit supplemental materials?
