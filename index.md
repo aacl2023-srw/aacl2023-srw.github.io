@@ -1,43 +1,52 @@
 ---
 layout: page
-title: "NAACL Student Research Workshop (SRW) 2019"
+title: "AACL-IJCNLP Student Research Workshop (SRW) 2020"
 permalink: /
 order: 1
 ---
 
 
 
-# Welcome to NAACL SRW 2019
-The NAACL Student Research Workshop (SRW) 2019 will be held in conjunction with [NAACL HLT 2019](http://naacl2019.org) in Minneapolis, USA. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
+# Welcome to AACL-IJCNLP SRW 2020
+The AACL-IJCNLP 2020 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2020 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
 
-### Please find the accepted archival papers [here.](https://www.aclweb.org/anthology/events/naacl-2019/#n19-3)
+# News
+August 7: The pre-submission deadline is in three weeks!
+<!-- Jan 18: Pre-mentoring feedback is on the way!
+March 6: The final submission deadline is today. Upload your submissions before 11.59PM UTC-12.
+April 16: Notifications of acceptance to the SRW 2020 will be released tomorrow!
+July 6-8: The SRW presentations will be held as part of the main ACL conference!
+-->
 
-<img src="images/social_picture.jpeg" alt="Happy faces during the SRW Social in Minneapolis, Minnesota" width="60%"/> 
-<br>
-_**Happy faces during the SRW Social in Minneapolis, Minnesota**_
+# Important Dates 
 
-Contact us via [Google Group](https://groups.google.com/forum/#!forum/naacl-2019-student-research-workshop) for any questions.
-Get connected with us via [Facebook](https://www.facebook.com/naaclsrw2019) and [Twitter](https://twitter.com/2019Srw).
+Pre-submission mentoring deadline: August 28, 2020
+Pre-submission feedback: September 18, 2020
+Paper submission deadline: September 25, 2020
+Acceptance notifications: October 23, 2020
+Camera-ready deadline: November 6, 2020
+Student Research Workshop: December 7, 2020
 
-<!-- We will update this site when latest information are available. -->
+All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-<!-- ### List of the accepted papers are available [here](/accepted) -->
+Submissions should be made on the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/.
 
 
-# Differences from Past SRWs
-The NAACL 2019 SRW has new submission options compared to past SRWs. Authors can now elect for both research papers and thesis proposals to be non-archival, in order to more explicitly encourage work in progress which can later be submitted to a future (archival) conference. These papers are otherwise treated the same as archival papers from a mentorship and reviewing standpoint. More details in the call for papers.
+# Student Research Workshop Faculty Advisors
+
+[Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/) - Academia Sinica, Taiwan
+[Vincent Ng](http://www.hlt.utdallas.edu/~vince) - University of Texas at Dallas, USA
+
 
 # Anti-Harassment Policy
-The NAACL Student Research Workshop 2019 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](acl@aclweb.org) if you face any harassment or hostile behavior.
+The AACL-IJCNLP Student Research Workshop 2020 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](acl@aclweb.org) if you face any harassment or hostile behavior.
 
+<!--
 # Sponsored By       
-<!-- ![Computing Research Association’s Computing Community Consortium (CCC)](images/ccc_hz copy.jpg)
-![National Science Foundation](images/NSF_4-Color_bitmap_Logo.png =250x)
- -->
 <img src="images/ccc_hz copy.jpg" alt="Computing Research Association’s Computing Community Consortium (CCC)" width="300"/>
 <img src="images/NSF_4-Color_bitmap_Logo.png" alt="National Science Foundation" width="200"/>
 <img src="images/nrc_canada_logo.png" alt="National Research Council, Canada" width="250" style="padding: 0 0 0 40px"/>
 <img src="images/google_logo.svg" alt="Google" width="250" style="padding: 0 0 0 40px"/>
-
+-->
 
 
