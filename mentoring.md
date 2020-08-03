@@ -8,16 +8,16 @@ order : 1
 
 ## Pre-submission Mentorship Program
 The SRW offers students the opportunity to get feedback in advance to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student’s work, not to critique the work itself. Participation is optional but encouraged and pre-submission mentorship is not anonymous.
-Students wishing to participate must submit the paper by __January 11, 2018__ via [naacl-2019-student-research-workshop@googlegroups.com](http://naacl-2019-student-research-workshop@googlegroups.com) along with the following included in the body of the e-mail.
+Students wishing to participate must submit the paper by __August 28, 2020__ via [	aacl-ijcnlp-2020-srw@googlegroups.com] along with the following included in the body of the e-mail.
 
 - A copy of the paper (PDF format, anonymized)
 - E-mail addresses of all authors (for correspondence)
-- Author keywords and the area of the research (see [here](http://naacl2019.org/calls/papers/) for relevant topics and areas)
+- Author keywords and the area of the research (see [here](http://aacl2020.org/calls/papers/) for relevant topics and areas)
 - Any specific questions for mentors or expected types of feedback
 
 Note that even though the mentoring is not done anonymously, the paper needs to be anonymized. We will check for formality of the paper including formatting before we match mentors.
 
-Participants will receive a mentor who will review and provide feedback to the student within 4 weeks. This mentor will not be the same person who will review the final submission. The feedback will be in the format of guidelines and suggestions to improve the overall writing; students are not required to make the changes suggested by the pre-submission mentor.
+Participants will receive a mentor who will review and provide feedback to the student within 3 weeks. This mentor will not be the same person who will review the final submission. The feedback will be in the format of guidelines and suggestions to improve the overall writing; students are not required to make the changes suggested by the pre-submission mentor.
 
 ## Mentoring of Accepted Papers
 
