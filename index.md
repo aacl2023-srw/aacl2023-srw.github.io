@@ -39,7 +39,7 @@ Submissions should be made on the START conference system: https://www.softconf.
 
 
 # Anti-Harassment Policy
-The AACL-IJCNLP Student Research Workshop 2020 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](acl@aclweb.org) if you face any harassment or hostile behavior.
+The AACL-IJCNLP Student Research Workshop 2020 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
 
 <!--
 # Sponsored By       
