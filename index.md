@@ -20,12 +20,12 @@ July 6-8: The SRW presentations will be held as part of the main ACL conference!
 
 # Important Dates 
 
-Pre-submission mentoring deadline: August 28, 2020
-Pre-submission feedback: September 18, 2020
-Paper submission deadline: September 25, 2020
-Acceptance notifications: October 23, 2020
-Camera-ready deadline: November 6, 2020
-Student Research Workshop: December 7, 2020
+- Pre-submission mentoring deadline: August 28, 2020
+- Pre-submission feedback: September 18, 2020
+- Paper submission deadline: September 25, 2020
+- Acceptance notifications: October 23, 2020
+- Camera-ready deadline: November 6, 2020
+- Student Research Workshop: December 7, 2020
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
@@ -34,9 +34,8 @@ Submissions should be made on the START conference system: https://www.softconf.
 
 # Student Research Workshop Faculty Advisors
 
-[Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/) - Academia Sinica, Taiwan
-
-[Vincent Ng](http://www.hlt.utdallas.edu/~vince) - University of Texas at Dallas, USA
+- [Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/) - Academia Sinica, Taiwan
+- [Vincent Ng](http://www.hlt.utdallas.edu/~vince) - University of Texas at Dallas, USA
 
 
 # Anti-Harassment Policy
