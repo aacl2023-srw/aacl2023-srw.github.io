@@ -35,6 +35,7 @@ Submissions should be made on the START conference system: https://www.softconf.
 # Student Research Workshop Faculty Advisors
 
 [Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/) - Academia Sinica, Taiwan
+
 [Vincent Ng](http://www.hlt.utdallas.edu/~vince) - University of Texas at Dallas, USA
 
 
