@@ -8,6 +8,6 @@ order : 1
 We expect to have grants to offset some portion of the students’ conference registration, travel and accommodation expenses. Further details will be posted in the SRW website.
 
 ## Contact Information
-The co-chairs of the workshop can be contacted by email at: naacl-2019-student-research-workshop@googlegroups.com.
+The co-chairs of the workshop can be contacted by email at: aacl-ijcnlp-2020-srw@googlegroups.com .
 
 
