@@ -4,7 +4,7 @@ permalink: /
 ---
 
 
-## Welcome to NAACL SRW 2020
+## Welcome to AACL-IJCNLP SRW 2020
 The AACL-IJCNLP 2020 Student Research Workshop (SRW) will be held in conjunction with [AACL-IJCNLP 2020](http://aacl2020.org). The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community. 
 
 Email us (aacl-ijcnlp-2020-srw@googlegroups.com) for any questions.
