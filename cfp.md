@@ -5,15 +5,26 @@ permalink: /cfp
 order : 1
 ---
 
+Student Research Workshop Collocated with AACL-IJCNLP 2020.
+
+Date: December 7, 2020
+
+***Paper Submission Deadline: September 25, 2020 ****
+
+Submissions should be made on the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/.
+
+You CAN submit a paper to the main deadline, even if you didn't participate in the pre-submission mentoring.
 
 # Call for Papers
-## General Invitation for Submission
-The Student Research Workshop (SRW) provides a venue for student researchers to present their work in computational linguistics and natural language processing. Students receive feedback from the general conference audience as well as from mentors specifically assigned according to the topic of their work.
+## General Rules for Submission
+The AACL-IJCNLP 2020 Student Research Workshop (SRW) provides a forum for student researchers who are investigating various areas related to Computational Linguistics and Natural Language Processing. The workshop provides an excellent opportunity for student participants to present their work and receive valuable feedback from the international research community as well as from selected panelists - experienced researchers, specifically assigned according to the topic of their work, who will prepare in-depth comments and questions in advance of the presentation.
+
+The workshop's goal is to aid students at multiple stages of their education: including undergraduate, masters, junior and senior PhD students.
 
 We invite papers in two different categories:
 - __Thesis Proposals__: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
 - __Research Papers__ : Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student.
-Topics of interest for the SRW are the same as NAACL main conference. See the list of topics [here](http://naacl2019.org/calls/papers/).
+Topics of interest for the SRW are the same as the AACL-IJCNLP 2020 main conference. See the list of topics [here](http://aacl-ijcnlp2020.org/calls/papers/).
 
 ## Benefits of participation
 
@@ -23,10 +34,12 @@ Topics of interest for the SRW are the same as NAACL main conference. See the li
 - Each participant is also assigned a mentor - an experienced researcher - who can provide valuable advice on the submission during the pre-submission period and mentoring during the conference.
 
 ## Important Dates
-- Submission for mentoring deadline: January 11, 2019.
-- Papers submission deadline: February 15, 2019.
-- Acceptance notification deadline: March 15, 2019.
-- Camera-ready papers due: April 3, 2019.
+- Pre-submission mentoring deadline: August 28, 2020
+- Pre-submission feedback: September 18, 2020
+- Paper submission deadline: September 25, 2020
+- Acceptance notifications: October 23, 2020
+- Camera-ready deadline: November 6, 2020
+- Conference dates: December 4 - 7, 2020
 
 
 __All deadlines are calculated at 11:59 pm (UTC-12 hours)__
