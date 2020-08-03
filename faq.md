@@ -32,7 +32,7 @@ __A:__ You may e-mail __aacl-ijcnlp-2020-srw@googlegroups.com__ with the follow 
 * Any specific questions for mentors or expected types of feedback
 
 #### Q: What are the restrictions on the number of pages for a paper submitted to the Student Research Workshop? 
-__A:__ See the NAACL-SRW author guidelines for page limits and submission information:
+__A:__ See the AACL-IJCNLP SRW author guidelines for page limits and submission information:
 [Author Guidelines](https://aacl2020-srw.github.io/author)
  
 #### Q: Double submission: where should it be mentioned that the paper will be submitted to other conference for reviewing?
