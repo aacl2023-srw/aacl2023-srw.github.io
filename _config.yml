@@ -20,7 +20,7 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "AACL-IJCNLP 2020 Student Research Workshop (SRW) 2020"
+title                    : "AACL-IJCNLP 2020\\Student Research Workshop (SRW)"
 title_separator          : "-"
 name                     : "ACL"
 description              : "In conjunction with AACL-IJCNLP 2020" 
