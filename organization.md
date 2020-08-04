@@ -8,10 +8,6 @@ order : 1
 
 ### Student Chairs
 - [Boaz Shmueli](https://towardsdatascience.com/@shmueli), Academia Sinica, Taiwan
-<!--
-- [Farah Nadeem](https://sites.google.com/site/nadeemf0755/home), University of Washington, USA
-- [Laura (Wendlandt) Burdick](http://wendlandt.github.io), University of Michigan, USA
--->
 
 ### Faculty Advisors 
 - [Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/), Academia Sinica, Taiwan
