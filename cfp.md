@@ -5,13 +5,13 @@ permalink: /cfp
 order : 1
 ---
 
-Student Research Workshop Collocated with AACL-IJCNLP 2020.
+Student Research Workshop Collocated with AACL-IJCNLP 2020
 
 Date: December 7, 2020
 
 ***Paper Submission Deadline: September 25, 2020 ****
 
-Submissions should be made on the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/.
+Submissions should be made on the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/
 
 You CAN submit a paper to the main deadline, even if you didn't participate in the pre-submission mentoring.
 
@@ -32,6 +32,7 @@ Topics of interest for the SRW are the same as the AACL-IJCNLP 2020 main confere
 - All accepted thesis proposals will be presented during a session at the main conference, giving students an opportunity to receive feedback from assigned mentors and other researchers.
 - Submissions (in both categories) may either be archival or non-archival, based on the wishes of the authors. All archival papers will be published in the NAACL 2019 SRW Proceedings. All non-archival papers may be submitted to any venue in the future __except__ another SRW.
 - Each participant is also assigned a mentor - an experienced researcher - who can provide valuable advice on the submission during the pre-submission period and mentoring during the conference.
+- We are also planning on having an invited speaker who will share his/her perspectives on NLP research.
 
 ## Important Dates
 - Pre-submission mentoring deadline: August 28, 2020
