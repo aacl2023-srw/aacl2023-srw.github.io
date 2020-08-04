@@ -8,7 +8,7 @@ order: 1
 
 
 # Welcome to AACL-IJCNLP SRW 2020
-The AACL-IJCNLP 2020 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2020 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
+The AACL-IJCNLP 2022 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2020 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
 
 # News
 August 7: The pre-submission deadline is in three weeks!
