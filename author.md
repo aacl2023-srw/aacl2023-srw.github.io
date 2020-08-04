@@ -29,7 +29,7 @@ For details on mentoring procedure see the mentoring page.
 
 ## Submission Procedure
 
-All papers consist of up to five (5) pages of content, plus unlimited references. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer's comments in their final versions. Submissions must conform to the specifications of AACL-IJCNLP 2020 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
+All papers consist of up to five (5) pages of content, plus unlimited references. Supplementary materials are __not__ allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer's comments in their final versions. Submissions must conform to the specifications of AACL-IJCNLP 2020 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
 
 Paper submissions must use the official AACL-IJCNLP 2020 style templates. 
 
