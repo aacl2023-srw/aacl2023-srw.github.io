@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "AACL-IJCNLP Student Research Workshop (SRW) 2020"
+title: "AACL-IJCNLP Student Research Workshop (SRW) 2022"
 permalink: /
 order: 1
 ---
