@@ -20,16 +20,16 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "NAACL Student Research Workshop (SRW) 2019"
+title                    : "AACL-IJCNLP 2020 Student Research Workshop (SRW) 2020"
 title_separator          : "-"
 name                     : "ACL"
-description              : "In conjunction with NAACL HLT 2019 in Minneapolis, USA" 
+description              : "In conjunction with AACL-IJCNLP 2020" 
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "naacl2019srw"
+    shortname            : "aacl2020srw"
 reCaptcha:
   siteKey                :
   secret                 :
