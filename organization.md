@@ -6,12 +6,13 @@ order : 1
 ---
 # Organization
 
-<!--
 ### Student Chairs
-- [Sudipta Kar](http://sudiptakar.info), University of Houston, USA
+- [Boaz Shmueli](https://towardsdatascience.com/@shmueli), Academia Sinica, Taiwan
+<!--
 - [Farah Nadeem](https://sites.google.com/site/nadeemf0755/home), University of Washington, USA
 - [Laura (Wendlandt) Burdick](http://wendlandt.github.io), University of Michigan, USA
 -->
+
 ### Faculty Advisors 
 - [Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/), Academia Sinica, Taiwan
 - [Vincent Ng](http://www.hlt.utdallas.edu/~vince), University of Texas at Dallas, USA
