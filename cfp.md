@@ -24,7 +24,7 @@ The workshop's goal is to aid students at multiple stages of their education: in
 We invite papers in two different categories:
 - __Thesis Proposals__: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
 - __Research Papers__ : Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student.
-Topics of interest for the SRW are the same as the AACL-IJCNLP 2020 main conference. See the list of topics [here](http://aacl-ijcnlp2020.org/calls/papers/).
+Topics of interest for the SRW are the same as the AACL-IJCNLP 2020 main conference. See the list of topics [here](http://aacl2020.org/calls/papers/).
 
 ## Benefits of participation
 
@@ -40,7 +40,7 @@ Topics of interest for the SRW are the same as the AACL-IJCNLP 2020 main confere
 - Paper submission deadline: September 25, 2020
 - Acceptance notifications: October 23, 2020
 - Camera-ready deadline: November 6, 2020
-- Conference dates: December 4 - 7, 2020
+- Workshop date: December 7, 2020
 
 
 __All deadlines are calculated at 11:59 pm (UTC-12 hours)__
