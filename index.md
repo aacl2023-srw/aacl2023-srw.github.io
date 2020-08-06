@@ -32,7 +32,7 @@ All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 Submissions should be made on the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/.
 
 
-# Student Research Workshop Co-Chais
+# Student Research Workshop Co-Chairs
 
 - [Boaz Shmueli](https://towardsdatascience.com/@shmueli), Academia Sinica, Taiwan
 
