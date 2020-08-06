@@ -11,7 +11,7 @@ order: 1
 The AACL-IJCNLP 2020 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2020 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
 
 # News
-August 7: The pre-submission deadline is in three weeks!
+August 6: The pre-submission deadline is in three weeks!
 <!-- Jan 18: Pre-mentoring feedback is on the way!
 March 6: The final submission deadline is today. Upload your submissions before 11.59PM UTC-12.
 April 16: Notifications of acceptance to the SRW 2020 will be released tomorrow!
