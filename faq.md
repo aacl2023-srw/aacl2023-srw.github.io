@@ -24,12 +24,8 @@ __A:__ Camera ready FAQs are available [here](https://github.com/acl-org/acl-pub
 __A:__ We do not allow any supplemental appendices, and the paper should stand alone without requiring any appendices. However, we do allow supplemental code and data submissions. Submissions should be made through Softconf.
 
 #### Q: Where should I submit for pre-submission mentoring?
-__A:__ You may e-mail __aacl-ijcnlp-2020-srw@googlegroups.com__ with the follow information:
-
-* A copy of the paper (PDF format, anonymized)
-* E-mail addresses of all authors (for correspondence)
-* Author keywords and the area of the research (see here for relevant topics and areas)
-* Any specific questions for mentors or expected types of feedback
+__A:__ You should submit on the START submission site by clicking the link for pre-submission mentoring. For details, see the AACL-IJCNLP SRW author guidelines for page limits and submission information:
+[Author Guidelines](https://aacl2020-srw.github.io/author)
 
 #### Q: What are the restrictions on the number of pages for a paper submitted to the Student Research Workshop? 
 __A:__ See the AACL-IJCNLP SRW author guidelines for page limits and submission information:
