@@ -13,9 +13,11 @@ The ACL has released policies for submission, review and citation. Accompanying 
 - __Be relevant__: Submissions to AACL-IJCNLP SRW 2020 should be relevant to the audience.
 - __Be original__: The content of submissions to AACL-IJCNLP SRW 2020 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
 
-Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Authors should list all such previous presentations in the submission form. 
+# IMPORTANT: Anonymity Period
 
-The first author of the papers __**MUST BE**__ a student.
+Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Note, however, that the ACL policies define an anonymity period, which starts on August 25, 2020 and end on October 23, 2020, meaning that any non-anonymized version of the paper that is posted online during the non-anonymity period cannot be submitted to the workshop.
+
+If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the workshop. The submitted version must not refer to the non-anonymized version, and you must indicate on the online submission form that a non-anonymized version exists. During the anonymity period, you may not update a non-anonymized version, advertise an anonymized or non-anonymized version on social media, or take any other action that would compromise double-blind reviewing during the anonymity period.
 
 ## Pre-submission Mentoring Procedure
 
@@ -55,7 +57,8 @@ In the case of two different submissions, the authors must ensure that these sub
 
 ## Reviewing Procedure
 
-The reviewing of the papers will be double-blind, so submission should not contain author information or self-identifying citations.
+The reviewing of the papers will be double-blind, so submission should not contain author information or self-identifying citations, e.g., "We previously showed (Smith, 1991) ...", should be avoided. Instead, use citations such as "Smith (1991) previously showed ...". Acknowledgments of funding or assistance must also be omitted. Submissions should not contain pointers to supplemental information on the web. Submissions that do not conform to these requirements will be rejected without review.
+
 
 Reviewing will be managed by the Student Workshop Co-Chairs and a team of reviewers on the Program Committee. Each submission will be matched with a mixed panel of student and senior researchers for review. The final acceptance decision will be based on the results of the review.
 
