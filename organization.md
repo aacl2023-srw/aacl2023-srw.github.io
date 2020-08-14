@@ -8,6 +8,7 @@ order : 1
 
 ### Student Chairs
 - [Boaz Shmueli](https://towardsdatascience.com/@shmueli), Academia Sinica, Taiwan
+- Yin Jou Huang, Kyoto University, Japan
 
 ### Faculty Advisors 
 - [Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/), Academia Sinica, Taiwan
