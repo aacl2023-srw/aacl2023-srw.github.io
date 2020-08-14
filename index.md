@@ -35,6 +35,7 @@ Submissions should be made on the START conference system: https://www.softconf.
 # Student Research Workshop Co-Chairs
 
 - [Boaz Shmueli](https://towardsdatascience.com/@shmueli), Academia Sinica, Taiwan
+- Yin Jou Huang, Kyoto University, Japan
 
 # Student Research Workshop Faculty Advisors
 
