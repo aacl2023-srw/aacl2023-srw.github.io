@@ -15,7 +15,7 @@ The ACL has released policies for submission, review and citation. Accompanying 
 
 # IMPORTANT: Anonymity Period
 
-Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Note, however, that the ACL policies define an anonymity period, which starts on August 25, 2020 and end on October 23, 2020, meaning that any non-anonymized version of the paper that is posted online during the non-anonymity period cannot be submitted to the workshop.
+Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Note, however, that the ACL policies define an anonymity period, which starts on May 26, 2020 (11:59pm PDT) and ends on Sept 11, 2020, meaning that any non-anonymized version of the paper that is posted online during the non-anonymity period cannot be submitted to the workshop.
 
 If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the workshop. The submitted version must not refer to the non-anonymized version, and you must indicate on the online submission form that a non-anonymized version exists. During the anonymity period, you may not update a non-anonymized version, advertise an anonymized or non-anonymized version on social media, or take any other action that would compromise double-blind reviewing during the anonymity period.
 
