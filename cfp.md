@@ -11,7 +11,7 @@ Date: December 7, 2020
 
 ***Paper Submission Deadline: September 25, 2020 ****
 
-Submissions should be made on the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/
+Submissions should be made on the START conference system: [https://www.softconf.com/aacl-ijcnlp2020/SRW/](https://www.softconf.com/aacl-ijcnlp2020/SRW/)
 
 You CAN submit a paper to the main deadline, even if you didn't participate in the pre-submission mentoring.
 

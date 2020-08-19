@@ -35,15 +35,15 @@ All papers consist of up to five (5) pages of content, plus unlimited references
 
 Paper submissions must use the official AACL-IJCNLP 2020 style templates. 
 
-Latex Style sheets are available here: http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip
+Latex Style sheets are available here: [http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip](http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip)
 
-Word Style sheets are available here: http://aacl2020.org/downloads/aacl-ijcnlp2020.docx
+Word Style sheets are available here: [http://aacl2020.org/downloads/aacl-ijcnlp2020.docx](http://aacl2020.org/downloads/aacl-ijcnlp2020.docx)
 
-The Overleaf template is also available here: https://www.overleaf.com/latex/templates/aacl-ijcnlp-2020-proceedings-template/vbqzdxbmrvsc.
+The Overleaf template is also available here: [https://www.overleaf.com/latex/templates/aacl-ijcnlp-2020-proceedings-template/vbqzdxbmrvsc](https://www.overleaf.com/latex/templates/aacl-ijcnlp-2020-proceedings-template/vbqzdxbmrvsc).
 
 All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files.
 
-Please submit using the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/.
+Please submit using the START conference system: [https://www.softconf.com/aacl-ijcnlp2020/SRW/](https://www.softconf.com/aacl-ijcnlp2020/SRW/).
 
 ## Multiple Submission Policy
 
