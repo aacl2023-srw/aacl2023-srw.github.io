@@ -29,7 +29,7 @@ July 6-8: The SRW presentations will be held as part of the main ACL conference!
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-Submissions should be made on the START conference system: https://www.softconf.com/aacl-ijcnlp2020/SRW/.
+Submissions should be made on the START conference system: [https://www.softconf.com/aacl-ijcnlp2020/SRW/](https://www.softconf.com/aacl-ijcnlp2020/SRW/).
 
 
 # Student Research Workshop Co-Chairs
