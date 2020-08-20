@@ -18,4 +18,24 @@ Participants will receive a mentor who will review and provide feedback to the s
 
 There will also be mentors who provide feedback to students in the form of in-depth comments and questions for the workshop presentation.
 
+## Pre-submission Mentors
+- Valerio Basile (University of Turin)
+- Daniel Beck (University of Melbourne)
+- David Chiang (University of Notre Dame)
+- Micha Elsner (The Ohio State University)
+- Kilian Evang (DFKI)
+- Lifu Huang (University of Illinois at Urbana-Champaign)
+- Parisa Kordjamshidi (Michigan State University)
+- Yang Liu (Tsinghua University)
+- Denis Newman-Griffis (University of Pittsburgh)
+- Ellie Pavlick (Brown University)
+- Sai Krishna Rallabandi (Carnegie Mellon University)
+- Paul Rayson (Lancaster University)
+- Arijit Sehanobish (Yale University)
+- Chen-Tse Tsai (Bloomberg)
+- Alakananda Vempala (Bloomberg)
+- Bonnie Webber (University of Edinburgh)
+- Wei Yu (Carnegie Mellon University)
+- Arkaitz Zubiaga (Queen Mary University of London)
 
+(This list is not final, more mentors are still being added.)
