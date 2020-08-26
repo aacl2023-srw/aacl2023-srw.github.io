@@ -17,6 +17,7 @@
       <div id="side-table-wrapper" style="float:right; width:310px; font-size: small">
         <h4 id="side-table-header">Important Dates</h4>
         <table id="important-dates" class="table table-condensed">
+          <p align="center"><small>* <em>All deadlines are calculated at 11:59 pm <br> UTC-12 hours</em></small></p>
           <tbody>
             <tr><td>Pre-submission mentorship application</td>
               <td>
@@ -28,7 +29,6 @@
             </tr>
             <tr><td>Submission deadline</td>
               <td>
-              
                 {% if sub < nowdate %} <strike> <font color="grey">{% endif %}
                 {% assign datediff = sub | minus: nowdate | divided_by: 60 | divided_by: 60 | divided_by: 24 %}
                 {% if datediff < 30  and datediff > -1 %} <font color="red"> {% endif %}
@@ -54,11 +54,6 @@
             <tr><td>Workshop</td>
               <td>Dec 7</td>
             </tr>
-
-            <tr>
-              
-              <p align="center"><small>* <em>All deadlines are calculated at 11:59 pm <br> UTC-12 hours</em></small></p>
-            </tr>
           </tbody></table>
           </font><br>
 
@@ -78,6 +73,8 @@
           </tbody>
         </table> -->
 
+        <h4 id="side-table-header">Follow Us on Twitter!</h4>
+        <a class="twitter-timeline" href="https://twitter.com/AACL_SRW?ref_src=twsrc%5Etfw">Tweets by AACL_SRW</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
       <!-- ===================================== -->
       {{ content }}
