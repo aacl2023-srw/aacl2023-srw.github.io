@@ -21,6 +21,7 @@ There will also be mentors who provide feedback to students in the form of in-de
 ## Mentors
 - Valerio Basile (University of Turin)
 - Daniel Beck (University of Melbourne)
+- Rishi Bommasani (Stanford University)
 - David Chiang (University of Notre Dame)
 - Lucia Donatelli (Saarland University)
 - Layla El Asri (Borealis AI)
