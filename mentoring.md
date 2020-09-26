@@ -18,9 +18,10 @@ Participants will receive a mentor who will review and provide feedback to the s
 
 There will also be mentors who provide feedback to students in the form of in-depth comments and questions for the workshop presentation.
 
-## Pre-submission Mentors
+## Mentors
 - Valerio Basile (University of Turin)
 - Daniel Beck (University of Melbourne)
+- Rishi Bommasani (Stanford University)
 - David Chiang (University of Notre Dame)
 - Lucia Donatelli (Saarland University)
 - Layla El Asri (Borealis AI)
@@ -41,5 +42,3 @@ There will also be mentors who provide feedback to students in the form of in-de
 - Bonnie Webber (University of Edinburgh)
 - Wei Yu (Carnegie Mellon University)
 - Arkaitz Zubiaga (Queen Mary University of London)
-
-(This list is not final, more mentors are still being added.)
