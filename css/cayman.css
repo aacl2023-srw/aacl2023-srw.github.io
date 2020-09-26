@@ -226,7 +226,9 @@ a:hover { text-decoration: underline; }
   padding: 10px;
   background-color: #fff;
   margin-left: 20px;
-  margin-top:50px;
+  margin-top: 10px;
+  max-height: 200vh;
+  overflow: scroll;
 }
 #side-table-header {
   margin-top: 5px;
@@ -238,4 +240,7 @@ a:hover { text-decoration: underline; }
   display: block;
   margin: auto;
   max-width: 120px;
+}
+#content {
+    min-height: 200vh;
 }
