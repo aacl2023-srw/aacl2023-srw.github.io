@@ -12,10 +12,10 @@ order : 1
 
 ## When and where do I send my final camera-ready paper?
 The deadline is Nov. 6 (11:59pm, UTC-12 hours, “anywhere on Earth”). 
-You may submit the final version of your paper by navigating to the AACL-IJCNLP 2020 SRW START login and following the internal links.
+You may submit the final version of your paper by navigating to the [AACL-IJCNLP 2020 SRW START login](https://www.softconf.com/aacl-ijcnlp2020/SRW/) and following the internal links.
 
 ## How should I enter metadata on the START system?
-The metadata (title, author, abstract) that you enter into START is very important, because it is used on the conference website, handbook, mobile app, and the ACL Anthology (and propagates to Google Scholar, etc).
+The metadata (title, author, abstract) that you enter into START is very important, because it is used on the conference website, handbook, mobile app, and the [ACL Anthology](https://www.aclweb.org/anthology/) (and propagates to Google Scholar, etc).
 
 Before the metadata is entered, please have all authors ensure that the name in their START profile (User Console, Update Profile) appears exactly the way that they want it to appear.
 - Unicode (UTF-8) can be used for accented or special characters.
@@ -34,7 +34,7 @@ The metadata should be written using Unicode (UTF-8) with LaTeX commands. Please
 
 ## How should the final copy differ from the original submission?
 The camera-ready version of your paper should incorporate the comments of the reviewers as well as other changes you see fit to make. In addition, be sure to do all of the following:
-- Ensure that your paper conforms to the provided styles, font and page size.
+- Ensure that your paper conforms to the [provided styles, font and page size](http://www.aacl2020.org/calls/papers/#paper-submission-and-templates).
 - Include the authors’ names and affiliations under the title. Note that the list of authors should be identical to the list specified when submitting the paper.
 - De-anonymize references to your own work in the body of the paper.
 - Where appropriate, add acknowledgments for colleagues, reviewers, and grants. Do not number the Acknowledgements section. Please note that the acknowledgement section should fit within the allowed page limits (6 pages of content) and be in the same font as the rest of the paper.
@@ -45,7 +45,9 @@ The camera-ready version of your paper should incorporate the comments of the re
 As a central venue of publication for our community, please prioritize the accessibility of your final version. The Diversity & Inclusion committee for ACL2020 has outlined some tips on how to do this:
 https://acl2020.org/blog/accessibility-for-camera-ready/
 
-In addition, the D&I chairs for AACL-IJCNLP 2020 SRW are working with Grammarly to help authors improve their writing, They have a form for authors to fill in if they need some assistance, which is available here. You can contact them via emails xiangyuduan@suda.edu.cn and tirthankar.slg@gmail.com for more details.
+In addition, the D&I chairs for AACL-IJCNLP 2020 SRW are working with Grammarly to help authors improve their writing.
+They have a form for authors to fill in if they need some assistance, which is available [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Qqi6BNUMVRRQjlPSUxaQUgwRE5FSkFIR01OT1FHTy4u). 
+You can contact them via emails <a href="mailto: xiangyuduan@suda.edu.cn">xiangyuduan@suda.edu.cn</a> and <a href="mailto: tirthankar.slg@gmail.com">tirthankar.slg@gmail.com</a> for more details.
 
 ## Where do appendices and supplemental material go?
 Supplemental material can be divided into two types: appendices and non-readable supplemental material.
@@ -58,10 +60,13 @@ There is no page limit for references or appendices.
 
 ## What is the format for the camera-ready copy?
 The file must be in Portable Document Format (PDF) on A4 paper.
-We require the use of AACL LaTeX style files or Microsoft Word Style files tailored for this year’s AACL conference.
+We require the use of AACL [LaTeX style files](http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip) or [Microsoft Word Style files](http://aacl2020.org/downloads/aacl-ijcnlp2020.docx) tailored for this year’s AACL conference.
 You can view the style files and detailed formatting instructions on the web.
 
-If you are using LaTeX, please create the PDF file with pdflatex or xelatex. This ensures use of the proper Type 1 fonts and also takes advantage of other PDF features. You will have the best results using a modern LaTeX distribution, in particular, TeX live. Using the geometry package to set the A4 format is recommended.
+If you are using LaTeX, please create the PDF file with pdflatex or xelatex.
+This ensures use of the proper Type 1 fonts and also takes advantage of other PDF features.
+You will have the best results using a modern LaTeX distribution, in particular, [TeX live](http://www.tug.org/texlive/).
+Using the geometry package to set the A4 format is recommended.
 
 ## How do I ensure that my file is correctly formatted?
 __Checking the paper size.__ Your paper needs to be formatted to A4. Here are a couple of ways to check this:
@@ -78,7 +83,9 @@ Remember that you are providing a camera-ready copy. Thus, artwork and photos sh
 Your paper must look good both when printed (A4 size) and when viewed on screen as PDF (zoomable to any size, color okay). Thus, you may want to use color high-resolution graphics, allowing readers to zoom in on a graph and study it. However, please check that the same graph or photograph is legible when printed and in a PDF viewer at different resolutions. Don’t go overboard on resolution; keep file sizes manageable. Note that vector graphics (e.g., encapsulated PostScript) look good at any scale and take up little space (unless you are plotting many thousands of data points).
 
 ## What about copyright?
-When you submit the paper, you will be asked to sign the ACL Copyright Transfer Agreement on behalf of all authors, either electronically (via the START Conference Manager) or physically. Authors retain many rights under this agreement and it is appropriate in the vast majority of cases. Please contact the publication chairs at aacl-ijcnlp-2020-srw@googlegroups.com  with any concerns regarding copyright.
+When you submit the paper, you will be asked to sign the ACL Copyright Transfer Agreement on behalf of all authors, either electronically (via the [START Conference Manager](https://www.softconf.com/aacl-ijcnlp2020/SRW/)) or physically.
+Authors retain many rights under this agreement and it is appropriate in the vast majority of cases.
+Please contact the publication chairs at <a href="mailto: aacl-ijcnlp-2020-srw@googlegroups.com">aacl-ijcnlp-2020-srw@googlegroups.com</a> with any concerns regarding copyright.
 
 Before signing this form, please confirm with your co-authors (and, if applicable, your and their employers) that they authorize you to sign on their behalf. Please sign your full name (not just your first or last initials).
 
