@@ -12,7 +12,7 @@ order : 1
 
 ## When and where do I send my final camera-ready paper?
 The deadline is Nov. 6 (11:59pm, UTC-12 hours, “anywhere on Earth”). 
-You may submit the final version of your paper by navigating to the AACL-IJCNLP 2020 START login and following the internal links.
+You may submit the final version of your paper by navigating to the AACL-IJCNLP 2020 SRW START login and following the internal links.
 
 ## How should I enter metadata on the START system?
 The metadata (title, author, abstract) that you enter into START is very important, because it is used on the conference website, handbook, mobile app, and the ACL Anthology (and propagates to Google Scholar, etc).
@@ -37,7 +37,7 @@ The camera-ready version of your paper should incorporate the comments of the re
 - Ensure that your paper conforms to the provided styles, font and page size.
 - Include the authors’ names and affiliations under the title. Note that the list of authors should be identical to the list specified when submitting the paper.
 - De-anonymize references to your own work in the body of the paper.
-- Where appropriate, add acknowledgments for colleagues, reviewers, and grants. Do not number the Acknowledgements section. Please note that the acknowledgement section should fit within the allowed page limits (9 pages of content for long papers, 5 pages of content for short papers) and be in the same font as the rest of the paper.
+- Where appropriate, add acknowledgments for colleagues, reviewers, and grants. Do not number the Acknowledgements section. Please note that the acknowledgement section should fit within the allowed page limits (6 pages of content) and be in the same font as the rest of the paper.
 - Ensure that all tables, graphs, and figures are readable at standard resolutions.
 - If you have supplemental material (including written material, data, and/or code) ensure that all the components are put at the right place (more on that below).
 
@@ -45,7 +45,7 @@ The camera-ready version of your paper should incorporate the comments of the re
 As a central venue of publication for our community, please prioritize the accessibility of your final version. The Diversity & Inclusion committee for ACL2020 has outlined some tips on how to do this:
 https://acl2020.org/blog/accessibility-for-camera-ready/
 
-In addition, the D&I chairs for AACL-IJCNLP 2020 are working with Grammarly to help authors improve their writing, They have a form for authors to fill in if they need some assistance, which is available here. You can contact them via emails xiangyuduan@suda.edu.cn and tirthankar.slg@gmail.com for more details.
+In addition, the D&I chairs for AACL-IJCNLP 2020 SRW are working with Grammarly to help authors improve their writing, They have a form for authors to fill in if they need some assistance, which is available here. You can contact them via emails xiangyuduan@suda.edu.cn and tirthankar.slg@gmail.com for more details.
 
 ## Where do appendices and supplemental material go?
 Supplemental material can be divided into two types: appendices and non-readable supplemental material.
