@@ -7,7 +7,7 @@ order : 1
 # Organization
 
 ### Student Chairs
-- [Boaz Shmueli](https://towardsdatascience.com/@shmueli), Academia Sinica, Taiwan
+- [Boaz Shmueli](https://www.linkedin.com/in/boazshmueli), Academia Sinica, Taiwan
 - Yin Jou Huang, Kyoto University, Japan
 
 ### Faculty Advisors 
