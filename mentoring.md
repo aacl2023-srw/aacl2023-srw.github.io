@@ -52,7 +52,7 @@ There will also be mentors who provide feedback to students in the form of in-de
 - Kurita Shuhei (RIKEN AIP)
 - Singh (Macquarie University)
 - Haiyue Song (Kyoto University)
-- Arseny Tolmachev (Fujitsu Labratories)
+- Arseny Tolmachev (Fujitsu Labratories, Ltd.)
 - Bonnie Webber (University of Edinburgh)
 - Pei Zhou (University of Southern California)
 - Hao Zhu (Carnegie Mellon University)
