@@ -1,81 +1,79 @@
 ---
 layout: page
 title: "Accepted Papers"
-permalink: /accepted
-order : 1
+permalink: program/accepted
+order : 2
 ---
 
-* __A bag-of-concepts model improves relation extraction in a narrow knowledge domain with limited data__
->_Jiyu Chen, Karin Verspoor and Zenan Zhai_
+* __Text Classification through Glyph-aware Disentangled Character Embedding and Semantic Sub-character Augmentation__
+>_Takumi Aoki, Shunsuke Kitada and Hitoshi Iyatomi_
 
-* __The Strength of the Weakest Supervision: Topic Classification Using Class Labels__
->_Jiatong Li, Kai Zheng, Hua Xu, Qiaozhu Mei and Yue Wang_
+* __Two-Headed Monster and Crossed Co-Attention Networks__
+>_Yaoyiran Li and Jing Jian_
 
-* __A Pregroup Representation of Word Order Alternation Using Hindi Syntax__
->_Alok Debnath and Manish Shrivastava_
+* __Towards a Task-Agnostic Model of Difficulty Estimation for Supervised Learning Tasks__
+>_Antonio Laverghetta Jr., Jamshidbek Mirzakhalov and John Licato_
 
-* __Generating Text through Adversarial Training using Skip-Thought Vectors__
->_Afroz Ahamad_
+* __A Siamese CNN Architecture for Learning Chinese Sentence Similarity__
+>_Haoxiang Shi, Cen Wang and Tetsuya Sakai_
 
-* __SEDTWik: Segmentation-based Event Detection from Tweets using Wikipedia__
->_Keval Morabia, Neti Lalita Bhanu Murthy, Aruna Malapati and Surender Samant_
+* __Automatic Classification of Students on Twitter Using Simple Profile Information__
+>_Lili-Michal Wilson and Christopher Wun_
 
-* __Emotion impacts Speech Recognition Performance__
->_Rushab Munot and Ani Nenkova_
+* __Towards Code-switched Classification Exploiting Constituent Language Resources__
+>_Kartikey Pant and Tanvi Dadu_
 
-* __Opinion Mining with Deep Contextualized Embeddings__
->_Wen-Bin Han and Noriko Kando_
+* __{H}indi History Note Generation with Unsupervised Extractive Summarization__
+>_Aayush Shah, Dhineshkumar Ramasubbu, Dhruv Mathew and Meet Chetan Gadoya_
 
-* __Defending Visual Question Answering models from Adversarial Attacks via induced attention invariance__ 
->_Vasu Sharma, Ankita Kalra and Louis-Phillipe Morency_
+* __Unbiasing Review Ratings with Tendency Based Collaborative Filtering__
+>_Pranshi Yadav, Priya Yadav, Pegah Nokhiz and Vivek Gupta_
 
-* __Multimodal Machine Translation with Embedding Prediction__
->_Tosho Hirasawa, Hayahide Yamagishi, Yukio Matsumura and Mamoru Komachi_
+* __Building a Part-of-Speech Tagged Corpus for Drenjongke (Bhutia)__
+>_Mana Ashida, Seunghun Lee and Kunzang Namgyal_
 
-* __Gating Mechanisms for Combining Character and Word-level Word Representations: An Empirical Study__
->_Jorge Balazs and Yutaka Matsuo_
+* __Towards a Standardized Dataset on Indonesian Named Entity Recognition__
+>_Siti Oryza Khairunnisa, Aizhan Imankulova and Mamoru Komachi_
 
-* __Data Augmentation with Data Noising in Open-vocabulary Slots for Spoken Language Understanding__
->_Hwa-Yeon Kim, Yoon-Hyung Roh and Young-Kil Kim_
+* __Formal Sanskrit Syntax: A Specification for Programming Language__
+>_K. Kabi Khanganba and Girish Jha_
 
-* __A Partially Rule-Based Approach to AMR Generation__
->_Emma Manning_
+* __Resource Creation and Evaluation of Aspect Based Sentiment Analysis in Urdu__
+>_Sadaf Rani and Muhammad Waqas Anwar_
 
-* __Word Polysemy Aware Document Vector Estimation__
->_Vivek Gupta, Ankit Saw, Harshit Gupta, Pegah Nokhiz and Partha Talukdar_
+* __Making a Point: Pointer-Generator Transformers for Disjoint Vocabularies__
+>_Nikhil Prabhu and Katharina Kann_
 
-* __Speak Up, Fight Back! Detection of Social Media Disclosures of Sexual Harassment__
->_Arijit Ghosh Chowdhury, Ramit Sawhney, Puneet Mathur, Debanjan Mahata and Rajiv Ratn Shah_
+* __Training with Adversaries to Improve Faithfulness of Attention in Neural Machine Translation__
+>_Pooya Moradi, Nishant Kambhatla and Anoop Sarkar_
 
-* __Handling Noisy Labels for Robustly Learning from Self-Training Data for Low-Resource Sequence Labeling__
->_Debjit Paul, Mittul Singh, Michael A. Hedderich and Dietrich Klakow_
+* __Document-Level Neural Machine Translation Using BERT as Context Encoder__
+>_Zhiyu Guo and Minh Le Nguyen_
 
-* __SNAP-BATNET: Cascading Author Profiling and Social Network Graphs for Suicide Ideation Detection on Social Media__
->_Rohan Mishra, Pradyumn Prakhar Sinha, Ramit Sawhney, Debanjan Mahata, Puneet Mathur and Rajiv Ratn Shah_
+* __A Review of Cross-Domain Text-to-SQL Models__
+>_Yujian Gan, Matthew Purver and John R. Woodward_
 
-<!--* __EQUATE : A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference__
->_Abhilasha Ravichander, Aakanksha Naik, Carolyn Rose and Eduard Hovy_ -->
+* __Multi-task Learning for Automated Essay Scoring with Sentiment Analysis__
+>_Panitan Muangkammuen and Fumiyo Fukumoto_
 
-* __Deep Learning and Sociophonetics: Automatic Coding of Rhoticity Using Neural Networks__
->_Sarah Gupta and Anthony DiPadova_
+* __Aspect Extraction Using Coreference Resolution and Unsupervised Filtering__
+>_Deon Mai and Wei Emma Zhang_
 
-* __Kickstarting NLP for the whole-person function domain with representation learning and data analysis__
->_Denis Newman-Griffis_
+* __GRUBERT: A GRU-Based Method to Fuse BERT Hidden Layers for Twitter Sentiment Analysis__
+>_Leo Horne, Matthias Matti, Pouya Pourjafar and Zuowen Wang_
 
-* __Is it Dish Washer Safe? Automatically Answering ``Yes/No'' Questions using Customer Reviews__
->_Daria Dzendzik, Carl Vogel and JENNIFER FOSTER_
+* __Exploring Statistical and Neural Models for Noun Ellipsis Detection and Resolution in English__
+>_Payal Khullar_
 
-* __Computational Investigations of Pragmatic Effects in Natural Language__
->_Jad Kabbara_
+* __MRC Examples Answerable by BERT without a Question Are Less Effective in MRC Model Training__
+>_Hongyu Li, Tengyang Chen, Shuting Bai, Takehito Utsuro and Yasuhide Kawada_
 
-* __Prediction of disfluencies in English speech__
->_Samvit Dammalapati, Rajakrishnan Rajkumar and Sumeet Agarwal_
+* __Text Simplification with Reinforcement Learning Using Supervised Rewards on Grammaticality, Meaning Preservation, and Simplicity__
+>_Akifumi Nakamachi, Tomoyuki Kajiwara and Yuki Arase_
 
-* __Learn Languages First and Then Convert: Towards Effective Simplified to Traditional Chinese Conversion__
->_Pranav A, S.F. Hui, I-Tsun Cheng, Ishaan Batra and Chiu Yik Hei_
+* __Label Representations in Modeling Classification as Text Generation__
+>_Xinyi Chen, Jingxian Xu and Alex Wang_
 
-* __Identifying and Reducing Gender Bias in Word-Level Language Models__
->_Shikha Bordia and Samuel R. Bowman_
-
-
+* __Generating Inflectional Errors for Grammatical Error Correction in {H}indi__
+>_Ankur Sonawane, Sujeet Kumar Vishwakarma, Bhavana Srivastava and Anil Kumar Singh_
 
