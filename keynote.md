@@ -6,8 +6,8 @@ order : 2
 ---
 
 ## Keynote Speaker
-We are delighted to have __Professor Emliy M. Bender__ to give keynotes in the workshop.
-The following are the details of the keynote session.
+We are delighted to have __Professor Emily M. Bender__ as our keynote speaker at the Student Research Workshop (SRW) of AACL-IJCNLP 2020.
+The following are the details of the keynote talk.
 
 <center><img src="/assets/EmilyMBender.jpeg" width="35%"/></center>
 #### Topic
