@@ -4,14 +4,18 @@ title: "Program"
 permalink: /program
 order : 1
 ---
-# Program
+<div style="float:right; width:35%;">
+    <img src="/assets/poster.png" style="float:right; width:100%;"/>`
+</div>
 
-## Keynote Session
-See the details of the [Keynote Session]({{ site.baseurl }}/program/keynote).
+<h1> Program </h1>
 
-## Schedule
-See the [SRW Schedule]({{ site.baseurl }}/program/schedule).
+<h2> Keynote Session</h2>
+See the details of the <a href="/program/keynote">Keynote Session</a>. 
 
-## Accepted Papers
-See the list of [accepted papers]({{ site.baseurl }}/program/accepted).
+<h2>Schedule</h2>
+See the <a href="/program/schedule">SRW Schedule</a> 
+
+<h2>Accepted Papers</h2>
+See the list of <a href="/program/accepted">accepted papers</a>.
 
