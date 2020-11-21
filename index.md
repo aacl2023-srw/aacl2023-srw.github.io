@@ -17,7 +17,7 @@ The AACL-IJCNLP 2020 Student Research Workshop (SRW) will be held in conjunction
 - <del>Pre-submission feedback: September 18, 2020</del>
 - <del>Paper submission deadline: September 25, 2020</del>
 - <del>Acceptance notifications: October 23, 2020</del>
-- Camera-ready deadline: November 6, 2020
+- <del>Camera-ready deadline: November 6, 2020</del>
 - Student Research Workshop: December 7, 2020
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
