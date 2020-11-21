@@ -5,6 +5,10 @@ permalink: /author
 order : 1
 ---
 
+<div id="side-table-wrapper" style="width:70%;">
+ Dear authors of accepted papers: <br> 
+ please check the <a href="https://aacl2020-srw.github.io/camera_ready">camera-ready instructions</a> and the <a href="https://aacl2020-srw.github.io/pre_recorded_video">pre-recorded video instructions</a> carefully.
+</div>
 
 
 # Author Guidelines
