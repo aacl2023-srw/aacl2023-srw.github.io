@@ -17,5 +17,5 @@ See the details of the <a href="/program/keynote">Keynote Session</a>.
 See the <a href="/program/schedule">SRW Schedule</a> 
 
 <h2>Accepted Papers</h2>
-See the list of <a href="/program/accepted">accepted papers</a>.
+See the list of <a href="/program/accepted_list">accepted papers</a>.
 
