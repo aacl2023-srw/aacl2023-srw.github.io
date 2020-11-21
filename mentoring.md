@@ -49,7 +49,7 @@ There will also be mentors who provide feedback to students in the form of in-de
 - Mah Parsa (University of Toronto)
 - Sai Krishna Rallabandi (Carnegie Mellon University)
 - Sonit Sehanobish (Yale)
-- Kurita Shuhei (RIKEN AIP)
+- Shuhei Kurita (RIKEN AIP)
 - Singh (Macquarie University)
 - Haiyue Song (Kyoto University)
 - Arseny Tolmachev (Fujitsu Labratories, Ltd.)
