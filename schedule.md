@@ -104,7 +104,7 @@ input {
 
 <tr bgcolor="#ededed">
   <td colspan="2" style="font-size: small;">
-  <b>{H}indi History Note Generation with Unsupervised Extractive Summarization</b>
+  <b>Hindi History Note Generation with Unsupervised Extractive Summarization</b>
   <form action="{{ site.baseurl }}/accepted/1055.html" style='display: inline;'> <input type='submit' value='abs' /> </form> <br>
   <em>Aayush Shah,&nbsp;Dhineshkumar Ramasubbu,&nbsp;Dhruv Mathew,&nbsp;Meet Chetan Gadoya</em><br>
   University of Southern California
@@ -282,7 +282,7 @@ input {
 
 <tr bgcolor="#ededed">
   <td colspan="2" style="font-size: small;">
-  <b>Generating Inflectional Errors for Grammatical Error Correction in {H}indi</b>
+  <b>Generating Inflectional Errors for Grammatical Error Correction in Hindi</b>
   <form action="{{ site.baseurl }}/accepted/1039.html" style='display: inline;'> <input type='submit' value='abs' /> </form> <br>
   <em>Ankur Sonawane,&nbsp;Sujeet Kumar Vishwakarma,&nbsp;Bhavana Srivastava,&nbsp;Anil Kumar Singh</em><br>
   Indian Institute of Technology (BHU)
