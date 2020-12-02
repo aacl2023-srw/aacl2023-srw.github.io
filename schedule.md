@@ -40,7 +40,10 @@ input {
 
 <tr bgcolor="#d0d0d0">
   <td> 10:00 - 11:00 </td>
-  <td> <b>Session SRW1 - Advanced Models</b> </td>
+  <td>
+  <b>Session SRW1 - Advanced Models</b> <br> 
+  <i>Chair: Katharina Kann, University of Colorado</i>
+  </td>
 </tr>
 
 <tr bgcolor="#ededed">
@@ -81,7 +84,10 @@ input {
 
 <tr bgcolor="#d0d0d0">
   <td> 11:00 - 12:00 </td>
-  <td> <b>Session SRW2 - Social Media and Applications</b> </td>
+  <td>
+  <b>Session SRW2 - Social Media and Applications</b> <br>
+  <i>Chair: Wei Emma Zhang, The University of Adelaide</i>
+  </td>
 </tr>
 
 <tr bgcolor="#ededed">
@@ -120,14 +126,17 @@ input {
   </td>
 </tr>
 
-<tr bgcolor="#d0d0d0">
+<tr bgcolor="#a0a0a0">
   <td> 12:00 - 14:00 </td>
   <td> <b>Break</b> </td>
 </tr>
 
 <tr bgcolor="#d0d0d0">
   <td> 14:00 - 15:00 </td>
-  <td> <b>Session SRW3 - Low-Resource Languages</b> </td>
+  <td>
+  <b>Session SRW3 - Low-Resource Languages</b> <br>
+  <i>Chair: Pranav A, Sentinel </i> 
+  </td>
 </tr>
 
 <tr bgcolor="#ededed">
@@ -168,7 +177,10 @@ input {
 
 <tr bgcolor="#d0d0d0">
   <td> 15:00 - 16:00 </td>
-  <td> <b> Session SRW4 - Translation and Transformation</b> </td>
+  <td>
+  <b>Session SRW4 - Translation and Transformation</b> <br>
+  <i>Chair: Yuki Arase, Osaka University</i>
+  </td>
 </tr>
 
 <tr bgcolor="#ededed">
@@ -209,7 +221,10 @@ input {
 
 <tr bgcolor="#d0d0d0">
   <td> 16:00 - 17:00 </td>
-  <td> <b> Session SRW5 - Semantics and Pragmatics</b> </td>
+  <td>
+  <b>Session SRW5 - Semantics and Pragmatics</b> <br>
+  <i>Chair: Vivek Gupta, University of Utah</i>
+  </td>
 </tr>
 
 <tr bgcolor="#ededed">
@@ -250,7 +265,10 @@ input {
 
 <tr bgcolor="#d0d0d0">
   <td> 17:00 - 18:00 </td>
-  <td> <b>Session SRW6 - Applications and Methods</b> </td>
+  <td>
+  <b>Session SRW6 - Applications and Methods</b> <br>
+  <i>Chair: John Licato, University of South Florida</i>
+  </td>
 </tr>
 
 <tr bgcolor="#ededed">
