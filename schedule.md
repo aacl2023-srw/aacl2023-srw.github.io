@@ -32,7 +32,9 @@ input {
 
 <tr bgcolor="#a0a0a0">
   <td> 08:45 - 09:00 </td>
-  <td> Welcome and Opening Remarks </td>
+  <td> Welcome and Opening Remarks 
+  <form action="{{ site.baseurl }}/pdfs/opening_remarks_aacl2020srw.pdf" style='display: inline;'> <input class='pdf_input' type='submit' value='pdf' /> </form>
+  </td>
 </tr>
 
 <tr bgcolor="#d0d0d0">
@@ -42,7 +44,9 @@ input {
 
 <tr bgcolor="#ededed">
   <td colspan="2" style="font-size: small;">
-  <b>Societal Impacts of NLP: How and When to Integrate Them into Your Research (and How to Make Time for That) </b> <br>
+  <b>Societal Impacts of NLP: How and When to Integrate Them into Your Research (and How to Make Time for That) </b>
+  <form action="{{ site.baseurl }}/pdfs/Bender-AACL-SRW-2020.pdf" style='display: inline;'> <input class='pdf_input' type='submit' value='pdf' /> </form>
+  <br>
   <i>Emily M. Bender, University of Washington</i>
   </td>
 </tr>
