@@ -67,7 +67,27 @@ The reviewing of the papers will be double-blind, so submission should not conta
 
 Reviewing will be managed by the Student Workshop Co-Chairs and a team of reviewers on the Program Committee. Each submission will be matched with a mixed panel of student and senior researchers for review. The final acceptance decision will be based on the results of the review.
 
+## Review Form for AACL 2020 Student Research Workshop (SRW) 
+Existing ACL review forms suffer from a few issues, including:
+- Too many textboxes causing different reviewers to divide their review among the textboxes in different ways (contributions, strengths, weaknesses, questions, suggestions, …)
+- Lengthy explanations in the Evaluation (numerical) part
+- Missing evaluation criteria, in particular Generalizability and Interestingness
+ 
+AACL SRW is introducing a new review form, with the following main goals in mind:
+- Reduce unnecessary reviewer load 
+- Easy to understand
+- Unambiguous
+- Constructive feedback for authors
+- Can be easily adapted to other workshops/conferences
 
+The main features:
+- Only two text boxes
+- Paper summary (info for the chairs)
+- Feedback (info for the authors)
+- Use of the familiar Likert agree/disagree scale for the various paper criteria
+- Four new paper criteria: Generalizability, Interestingness, Structure (in addition to Readability), Ethics
+
+You can download the review form <a href="{{ site.baseurl }}/pdfs/aacl2020_srw_review_from.pdf">here</a>.
 
 
 
