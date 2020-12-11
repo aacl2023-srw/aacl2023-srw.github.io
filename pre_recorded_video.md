@@ -21,25 +21,25 @@ __SRW-[Paper ID].mp4__
 # How to upload the video
 - Login the WebDisk\\
 The username and password will be sent by mail.\\
-<img src="\images\v1_1.png">
+<img src="\assets\v1_1.png">
 - Click the __Add files__ button to upload the video.\\
-<img src="\images\v1_2.png" width="600">
+<img src="\assets\v1_2.png" width="600">
 - After the file is uploaded, you can find your video in the list of files.\\
-<img src="\images\v1_3.png" width="600">
+<img src="\assets\v1_3.png" width="600">
 
 # How to use Office PowerPoint to Record a Video
 - Open a pptx file, and click the __Slide Show__ tab.\\
-<img src="\images\v2_1.png" width="700">\\
+<img src="\assets\v2_1.png" width="700">\\
 Then, click the __Record Slide Show__ button.\\
-<img src="\images\v2_2.png" width="700">\\
+<img src="\assets\v2_2.png" width="700">\\
 Then, click the __Start Recording__ button in the Message Box to record the video.\\
-<img src="\images\v2_3.png" width="700">
+<img src="\assets\v2_3.png" width="700">
 
 - The recording will start automatically.\\
-<img src="\images\v2_4.png" width="700">
+<img src="\assets\v2_4.png" width="700">
 
 - After the slide show is finished, click __File__ -> __Export__ -> __Create Video__ to save the video.\\
-<img src="\images\v2_5.png" width="500">\\
+<img src="\assets\v2_5.png" width="500">\\
 Save the video as an MP4 file.\\
-<img src="\images\v2_6.png" width="500">
+<img src="\assets\v2_6.png" width="500">
 
