@@ -65,7 +65,7 @@ See the <a href="/program/schedule">SRW Schedule</a>
 See the list of <a href="/program/accepted_list">accepted papers</a>.
 
 <h2> Best Paper Award </h2>
-The following are the winners of the Best Paper Award of the Student Research Wrokshop of AACL-IJCNLP 2020:
+The following are the winners of the Best Paper Award of the Student Research Workshop of AACL-IJCNLP 2020:
 <div style="float:left; width:35%;">
   <img src="/assets/best_paper_1st.png" style="width:100%; margin: 0 0 7px 0;"/>
   <a class='pdf_input' href="https://www.aclweb.org/anthology/2020.aacl-srw.13.pdf">pdf</a>
