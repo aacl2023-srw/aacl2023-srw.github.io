@@ -5,12 +5,14 @@ permalink: /author
 order : 1
 ---
 
+<!--
 <div id="side-table-wrapper" style="width:70%;">
  Dear authors of accepted papers, please check the following instructions carefully: <br> 
  <li> <a href="https://aacl2022-srw.github.io/camera_ready">camera-ready instructions</a> </li>
  <li> <a href="https://aacl2022-srw.github.io/pre_recorded_video">pre-recorded video instructions</a> </li>
  <li> <a href="http://aacl2022.org/blog/5/">instructions of the remote presentaion system</a> </li>
 </div>
+-->
 
 # Author Guidelines
 The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. AACL-IJCNLP SRW 2022 will adhere to these policies and guidelines. Submissions should:
