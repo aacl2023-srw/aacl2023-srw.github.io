@@ -1,43 +1,43 @@
 ---
 layout: page
-title: "AACL-IJCNLP Student Research Workshop (SRW) 2020"
+title: "AACL-IJCNLP Student Research Workshop (SRW) 2022"
 permalink: /
 order: 1
 ---
 
 
 
-# Welcome to AACL-IJCNLP SRW 2020
-The AACL-IJCNLP 2020 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2020 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
+# Welcome to AACL-IJCNLP SRW 2022
+The AACL-IJCNLP 2022 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2022 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
 
 
 # Important Dates 
 
-- <del>Pre-submission mentoring deadline: August 28, 2020</del>
-- <del>Pre-submission feedback: September 18, 2020</del>
-- <del>Paper submission deadline: September 25, 2020</del>
-- <del>Acceptance notifications: October 23, 2020</del>
-- <del>Camera-ready deadline: November 6, 2020</del>
-- <del>Student Research Workshop: December 7, 2020</del>
+- <del>Pre-submission mentoring deadline: XXX YYY, 2022</del>
+- <del>Pre-submission feedback: XXX YYY, 2022</del>
+- <del>Paper submission deadline: XXX YYY, 2022</del>
+- <del>Acceptance notifications: XXX YYY, 2022</del>
+- <del>Camera-ready deadline: XXX YYY, 2022</del>
+- <del>Student Research Workshop: XXX YYY, 2022</del>
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-Submissions should be made on the START conference system: [https://www.softconf.com/aacl-ijcnlp2020/SRW/](https://www.softconf.com/aacl-ijcnlp2020/SRW/).
+Submissions should be made on the START conference system: TBA
 
 
 # Student Research Workshop Co-Chairs
 
-- [Boaz Shmueli](https://towardsdatascience.com/@shmueli), Academia Sinica, Taiwan
-- Yin Jou Huang, Kyoto University, Japan
+- [Hanqi Yan](https://warwick.ac.uk/fac/sci/dcs/people/u2048587/), University of Warwick, UK
+- [Zonghan Yang](https://minicheshire.github.io), Tsinghua University, China
 
 # Student Research Workshop Faculty Advisors
 
-- [Lun-Wei Ku](https://www.iis.sinica.edu.tw/pages/lwku/) - Academia Sinica, Taiwan
-- [Vincent Ng](http://www.hlt.utdallas.edu/~vince) - University of Texas at Dallas, USA
+- [Sebastian Ruder](https://ruder.io/), DeepMind, UK
+- [Xiaojun Wan](https://wanxiaojun.github.io/), Peking University, China
 
 
 # Anti-Harassment Policy
-The AACL-IJCNLP Student Research Workshop 2020 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
+The AACL-IJCNLP Student Research Workshop 2022 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
 
 <!--
 # Sponsored By       

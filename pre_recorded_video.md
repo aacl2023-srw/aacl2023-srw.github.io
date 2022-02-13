@@ -6,7 +6,7 @@ order : 1
 ---
 
 # Instructions for uploading your pre-recorded video
-- The authors (speakers) should upload their pre-recorded video before __November 15th__.
+- The authors (speakers) should upload their pre-recorded video before __XXX YYY__.
 - The presenters do not need to appear in the video, only the slides and voice are required. 
 - The requirements of videos are the following:
     - The length of the video should be up to __8 minutes__.
@@ -14,10 +14,9 @@ order : 1
 - Format of the name of the uploaded video:\\
 __SRW-[Paper ID].mp4__
 - The video should be uploaded into the WebDisk. The author only has the authority to upload and read but cannot delete or modify. If there is any problem with the uploaded video, please upload again, and we will choose the one with the newest timestamp. 
-- If you have any problem uploading the video, please contact the Remote Presentation Co-Chairs of AACL-IJCNLP 2020: 
-    - Muyun Yang: yangmuyun@hit.edu.cn
-    - Nanyun Peng: violetpeng@cs.ucla.edu
-
+- If you have any problem uploading the video, please contact the Remote Presentation Co-Chairs of AACL-IJCNLP 2022: 
+    - TBA
+    
 # How to upload the video
 - Login the WebDisk\\
 The username and password will be sent by mail.\\

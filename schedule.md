@@ -50,11 +50,11 @@ order : 2
 }
 </style>
 
-## AACL-IJCNLP 2020 SRW Schedule
+## AACL-IJCNLP 2022 SRW Schedule
 <div style="float:left; width:70%; font-size: 15px;"> <table> <tbody>
-<tr bgcolor="#707070"> <td colspan="2"> <font color="#e9e9e9"> <b>Dec 7, 2020 (GMT+8)</b> </font> </td> </tr>
+<tr bgcolor="#707070"> <td colspan="2"> <font color="#e9e9e9"> <b>XXX YYY, 2022 (GMT+8)</b> </font> </td> </tr>
 
-<tr bgcolor="#a0a0a0">
+<!--<tr bgcolor="#a0a0a0">
   <td> 08:45 - 09:00 </td>
   <td> Welcome and Opening Remarks 
   <a class='pdf_input' href="{{ site.baseurl }}/pdfs/opening_remarks_aacl2020srw.pdf">pdf</a>
@@ -420,7 +420,7 @@ order : 2
   <td> 18:00 - 18:30 </td>
   <td> <b>Best Paper Award and Closing Remarks</b> </td>
 </tr>
-</tbody> </table> </div>
+</tbody> </table> </div>-->
 
 <br>
 <br>

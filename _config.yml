@@ -20,16 +20,16 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale                   : "en"
 baseurl                  : ""
-title                    : "AACL-IJCNLP 2020 Student Research Workshop (SRW)"
+title                    : "AACL-IJCNLP 2022 Student Research Workshop (SRW)"
 title_separator          : "-"
 name                     : "ACL"
-description              : "In conjunction with AACL-IJCNLP 2020" 
+description              : "In conjunction with AACL-IJCNLP 2022" 
 breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : "aacl2020srw"
+    shortname            : "aacl2022srw"
 reCaptcha:
   siteKey                :
   secret                 :
@@ -60,8 +60,6 @@ naver_site_verification  :
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: naacl-2019-student-research-workshop@googlegroups.com
-  facebook: naaclsrw2019
-  github: naacl2019-srw
-  twitter: 2019Srw
+  email: aacl-srw22@googlegroups.com
+  twitter: aacl_srw
   

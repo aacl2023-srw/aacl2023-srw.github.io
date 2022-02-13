@@ -25,11 +25,11 @@ __A:__ We do not allow any supplemental appendices, and the paper should stand a
 
 #### Q: Where should I submit for pre-submission mentoring?
 __A:__ You should submit on the START submission site by clicking the link for pre-submission mentoring. For details, see the AACL-IJCNLP SRW author guidelines for page limits and submission information:
-[Author Guidelines](https://aacl2020-srw.github.io/author)
+[Author Guidelines](https://aacl2022-srw.github.io/author)
 
 #### Q: What are the restrictions on the number of pages for a paper submitted to the Student Research Workshop? 
 __A:__ See the AACL-IJCNLP SRW author guidelines for page limits and submission information:
-[Author Guidelines](https://aacl2020-srw.github.io/author)
+[Author Guidelines](https://aacl2022-srw.github.io/author)
  
 #### Q: Double submission: where should it be mentioned that the paper will be submitted to other conference for reviewing?
 __A:__ Double submission to the AACL-IJCNLP SRW and other AACL-IJCNLP workshops is prohibited.
