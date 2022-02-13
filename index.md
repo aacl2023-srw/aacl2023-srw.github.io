@@ -13,12 +13,12 @@ The AACL-IJCNLP 2022 Student Research Workshop (SRW) will be held in conjunction
 
 # Important Dates 
 
-- <del>Pre-submission mentoring deadline: XXX YYY, 2022</del>
-- <del>Pre-submission feedback: XXX YYY, 2022</del>
-- <del>Paper submission deadline: XXX YYY, 2022</del>
-- <del>Acceptance notifications: XXX YYY, 2022</del>
-- <del>Camera-ready deadline: XXX YYY, 2022</del>
-- <del>Student Research Workshop: XXX YYY, 2022</del>
+- Pre-submission mentoring deadline: XXX YYY, 2022
+- Pre-submission feedback: XXX YYY, 2022
+- Paper submission deadline: XXX YYY, 2022
+- Acceptance notifications: XXX YYY, 2022
+- Camera-ready deadline: XXX YYY, 2022
+- Student Research Workshop: XXX YYY, 2022
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 

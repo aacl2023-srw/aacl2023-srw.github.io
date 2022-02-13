@@ -49,9 +49,9 @@ order : 1
 }
 </style>
 
-<div style="float:right; width:33%;">
+<!--<div style="float:right; width:33%;">
   <img src="/assets/poster.png" style="float:right; width:100%;"/>
-</div>
+</div>-->
 
 <h1> Program </h1>
 
