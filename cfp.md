@@ -7,11 +7,11 @@ order : 1
 
 Student Research Workshop Collocated with AACL-IJCNLP 2022
 
-Date: XXX YYY, 2022
+Date: Nov 24, 2022
 
-***Paper Submission Deadline: XXX YYY, 2022 ****
+***Paper Submission Deadline: Sep 9, 2022 ****
 
-Submissions should be made on the START conference system: TBA
+Submissions should be made on the START conference system: https://softconf.com/aacl2022/SRW/
 
 You CAN submit a paper to the main deadline, even if you didn't participate in the pre-submission mentoring.
 
@@ -22,9 +22,8 @@ The AACL-IJCNLP 2022 Student Research Workshop (SRW) provides a forum for studen
 The workshop's goal is to aid students at multiple stages of their education: including undergraduate, masters, junior and senior PhD students.
 
 We invite papers in two different categories:
-- __Thesis Proposals__: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
-- __Research Papers__ : Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student.
-Topics of interest for the SRW are the same as the AACL-IJCNLP 2022 main conference. See the list of topics [here](https://www.aacl2022.org/Submission/paper#h.vrp39llw544p).
+- __General Research Papers__: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student. Topics of interest for the SRW are the same as the AACL-IJCNLP 2022 main conference. See the list of topics [here](https://www.aacl2022.org/Submission/paper).
+- __Affective NLP__ : Papers in this category focus on Affective Computing, which is the subfield that deals with designing systems that can understand human emotions, mood, etc, also including the emotional chatbots that can generate empathetic responses.
 
 ## Benefits of participation
 
@@ -35,12 +34,12 @@ Topics of interest for the SRW are the same as the AACL-IJCNLP 2022 main confere
 - We are also planning on having an invited speaker who will share his/her perspectives on NLP research.
 
 ## Important Dates
-- Pre-submission mentoring deadline: XXX YYY, 2022
-- Pre-submission feedback: XXX YYY, 2022
-- Paper submission deadline: XXX YYY, 2022
-- Acceptance notifications: XXX YYY, 2022
-- Camera-ready deadline: XXX YYY, 2022
-- Workshop date: XXX YYY, 2022
+- Pre-submission mentoring deadline: Aug 12, 2022
+- Pre-submission feedback: Sep 2, 2022
+- Paper submission deadline: Sep 9, 2022
+- Acceptance notifications: Oct 7, 2022
+- Camera-ready deadline: Oct 21, 2022
+- Workshop date: Nov 24, 2022
 
 
 __All deadlines are calculated at 11:59 pm (UTC-12 hours)__

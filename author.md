@@ -22,17 +22,17 @@ The ACL has released policies for submission, review and citation. Accompanying 
 
 # IMPORTANT: Anonymity Period
 
-Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Note, however, that the ACL policies define an anonymity period, which starts on XXX YYY, 2022 (11:59pm PDT) and ends on XXX YYY, 2022, meaning that any non-anonymized version of the paper that is posted online during the non-anonymity period cannot be submitted to the workshop.
+Authors may present preliminary versions of their work in other venues that are not refereed and/or not archival (e.g. course reports, theses, non-archival workshops, or on preprint servers such as arXiv.org). Note, however, that the ACL policies define an anonymity period, which starts on Aug 9, 2022 (11:59pm PDT) and ends on Oct 21, 2022, meaning that any non-anonymized version of the paper that is posted online during the non-anonymity period cannot be submitted to the workshop.
 
 If you have posted a non-anonymized version of your paper online before the start of the anonymity period, you may submit an anonymized version to the workshop. The submitted version must not refer to the non-anonymized version, and you must indicate on the online submission form that a non-anonymized version exists. During the anonymity period, you may not update a non-anonymized version, advertise an anonymized or non-anonymized version on social media, or take any other action that would compromise double-blind reviewing during the anonymity period.
 
 ## Pre-submission Mentoring Procedure
 
-Paper drafts for pre-submission mentoring should be sent in the PDF format before XXX YYY, 2022. 
+Paper drafts for pre-submission mentoring should be sent in the PDF format before Aug 12, 2022. 
 
-Pre-submission mentoring is not anonymous. The mentor will not review the final submission. Papers sent for pre-submission mentoring but not submitted via the electronic system (see the instructions below) by XXX YYY, 2022, will not be reviewed.
+Pre-submission mentoring is not anonymous. The mentor will not review the final submission. Papers sent for pre-submission mentoring but not submitted via the electronic system (see the instructions below) by Sep 9, 2022, will not be reviewed.
 
-The complete list  of important dates are the main page. 
+The complete list of important dates are the main page. 
 
 For details on mentoring procedure see the mentoring page.
 
@@ -40,17 +40,18 @@ For details on mentoring procedure see the mentoring page.
 
 All papers consist of up to five (5) pages of content, plus unlimited references. Supplementary materials are __not__ allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer's comments in their final versions. Submissions must conform to the specifications of AACL-IJCNLP 2022 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
 
-Paper submissions must use the official AACL-IJCNLP 2022 style templates. 
+Paper submissions must use the official AACL-IJCNLP 2022 style templates: See the [ARR CFP guidelines](https://aclrollingreview.org/cfp).
 
-Latex Style sheets are available here: TBA <!--[http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip](http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip)-->
+<!--
+Latex Style sheets are available here: TBA [http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip](http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip)
 
-<!--Word Style sheets are available here: [http://aacl2020.org/downloads/aacl-ijcnlp2020.docx](http://aacl2020.org/downloads/aacl-ijcnlp2020.docx)-->
+Word Style sheets are available here: [http://aacl2020.org/downloads/aacl-ijcnlp2020.docx](http://aacl2020.org/downloads/aacl-ijcnlp2020.docx)
 
-The Overleaf template is also available here: TBA <!--[https://www.overleaf.com/latex/templates/aacl-ijcnlp-2020-proceedings-template/vbqzdxbmrvsc](https://www.overleaf.com/latex/templates/aacl-ijcnlp-2020-proceedings-template/vbqzdxbmrvsc).-->
+The Overleaf template is also available here: TBA [https://www.overleaf.com/latex/templates/aacl-ijcnlp-2020-proceedings-template/vbqzdxbmrvsc](https://www.overleaf.com/latex/templates/aacl-ijcnlp-2020-proceedings-template/vbqzdxbmrvsc).
 
-All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files.
+All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. -->
 
-Please submit using the system: TBA
+Please submit using the START conference system: https://softconf.com/aacl2022/SRW/
 
 <!--Please submit using the START conference system: [https://www.softconf.com/aacl-ijcnlp2020/SRW/](https://www.softconf.com/aacl-ijcnlp2020/SRW/).-->
 
