@@ -8,7 +8,7 @@ order : 1
 
 ## Pre-submission Mentorship Program
 The SRW offers students the opportunity to get feedback in advance to submitting their work for review. The goal of the pre-submission mentorship program is to improve the quality of writing and presentation of the student’s work, not to critique the work itself. Participation is optional but encouraged and pre-submission mentorship is not anonymous.
-Students wishing to participate must submit the paper by __Aug 12, 2022__ to the START conference system: https://softconf.com/aacl2022/SRW/.
+Students wishing to participate must submit the paper by __Aug 12, 2022__ to the START conference system: [https://softconf.com/aacl2022/SRW/](https://softconf.com/aacl2022/SRW/).
 
 Note that even though the mentoring is not done anonymously, the paper needs to be __anonymized__. We will check for formality of the paper including formatting before we match mentors.
 

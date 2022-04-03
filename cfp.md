@@ -11,7 +11,7 @@ Date: Nov 24, 2022
 
 ***Paper Submission Deadline: Sep 9, 2022 ****
 
-Submissions should be made on the START conference system: https://softconf.com/aacl2022/SRW/
+Submissions should be made on the START conference system: [https://softconf.com/aacl2022/SRW/](https://softconf.com/aacl2022/SRW/)
 
 You CAN submit a paper to the main deadline, even if you didn't participate in the pre-submission mentoring.
 

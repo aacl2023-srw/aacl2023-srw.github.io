@@ -51,7 +51,7 @@ The Overleaf template is also available here: TBA [https://www.overleaf.com/late
 
 All submissions must be in PDF format and must conform to the official style guidelines, which are contained in these template files. -->
 
-Please submit using the START conference system: https://softconf.com/aacl2022/SRW/
+Please submit using the START conference system: [https://softconf.com/aacl2022/SRW/](https://softconf.com/aacl2022/SRW/)
 
 <!--Please submit using the START conference system: [https://www.softconf.com/aacl-ijcnlp2020/SRW/](https://www.softconf.com/aacl-ijcnlp2020/SRW/).-->
 
