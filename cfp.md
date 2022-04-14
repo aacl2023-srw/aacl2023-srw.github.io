@@ -21,9 +21,16 @@ The AACL-IJCNLP 2022 Student Research Workshop (SRW) provides a forum for studen
 
 The workshop's goal is to aid students at multiple stages of their education: including undergraduate, masters, junior and senior PhD students.
 
-We invite papers in two different categories:
+We invite papers in three different categories:
 - __General Research Papers__: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student. Topics of interest for the SRW are the same as the AACL-IJCNLP 2022 main conference. See the list of topics [here](https://www.aacl2022.org/Submission/paper).
-- __Affective NLP__ : Papers in this category focus on Affective Computing, which is the subfield that deals with designing systems that can understand human emotions, mood, etc, also including the emotional chatbots that can generate empathetic responses.
+- __Thesis Proposals__: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
+- __Human-Centered NLP__ : This is the special theme category in AACL-SRW 2022. The rising prevalence of living along with artificial intelligence has brought lots of benefits to people's daily life. However, it also poses a challenge of building reliable, explainable, and empathic tools to provide better service, from essential natural language applications (e.g., machine translation, text classification ) to mental support. Especially during the current pandemic, people are more likely to feel alone and *rely* upon *technology*. This, together with the advances in the field of Natural Language processing, has motivated the exploration of human-centered technology. In this special theme, we invite submissions that address diverse human-centered questions, particularly encouraging bringing together perspectives and methods from NLP and affective computing to improve individuals' lives physically and mentally.
+Topics of interest include ( but are not limited to):
+(1) affective systems to understand human emotion and respond to their emotional feedback
+(2) sentiment analysis in social media, e-commerce data, etc.
+(3) human factors in the NLP evaluation system
+(4) reliable and explainable NLP models
+(5) ethics in NLP, including debiasing, detoxification, etc.
 
 ## Benefits of participation
 

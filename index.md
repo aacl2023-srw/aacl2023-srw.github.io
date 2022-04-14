@@ -11,14 +11,14 @@ order: 1
 The AACL-IJCNLP 2022 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2022 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
 
 
-# Important Dates 
+## Important Dates
 
-- Pre-submission mentoring deadline: XXX YYY, 2022
-- Pre-submission feedback: XXX YYY, 2022
-- Paper submission deadline: XXX YYY, 2022
-- Acceptance notifications: XXX YYY, 2022
-- Camera-ready deadline: XXX YYY, 2022
-- Student Research Workshop: XXX YYY, 2022
+- Pre-submission mentoring deadline: Aug 12, 2022
+- Pre-submission feedback: Sep 2, 2022
+- Paper submission deadline: Sep 9, 2022
+- Acceptance notifications: Oct 7, 2022
+- Camera-ready deadline: Oct 21, 2022
+- Workshop date: Nov 24, 2022
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
