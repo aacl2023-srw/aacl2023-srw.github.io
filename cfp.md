@@ -7,7 +7,7 @@ order : 1
 
 Student Research Workshop Collocated with AACL-IJCNLP 2022
 
-Date: Nov 24, 2022
+Date: Nov 20, 2022
 
 ***Paper Submission Deadline: Sep 9, 2022 ****
 
@@ -46,7 +46,7 @@ Topics of interest include ( but are not limited to):
 - Paper submission deadline: Sep 9, 2022
 - Acceptance notifications: Oct 7, 2022
 - Camera-ready deadline: Oct 21, 2022
-- Workshop date: Nov 24, 2022
+- Workshop date: Nov 20, 2022
 
 
 __All deadlines are calculated at 11:59 pm (UTC-12 hours)__

@@ -18,7 +18,7 @@ The AACL-IJCNLP 2022 Student Research Workshop (SRW) will be held in conjunction
 - Paper submission deadline: Sep 9, 2022
 - Acceptance notifications: Oct 7, 2022
 - Camera-ready deadline: Oct 21, 2022
-- Workshop date: Nov 24, 2022
+- Workshop date: Nov 20, 2022
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
