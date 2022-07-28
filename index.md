@@ -22,7 +22,7 @@ The AACL-IJCNLP 2022 Student Research Workshop (SRW) will be held in conjunction
 
 All deadlines are 11:59PM UTC-12:00 ("anywhere on Earth").
 
-Submissions should be made on the START conference system: https://softconf.com/aacl2022/SRW/
+Submissions should be made on the START conference system: [https://softconf.com/aacl2022/SRW/](https://softconf.com/aacl2022/SRW/)
 
 
 # Student Research Workshop Co-Chairs
