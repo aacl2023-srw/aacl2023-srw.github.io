@@ -15,6 +15,8 @@ Submissions should be made on the START conference system: [https://softconf.com
 
 You CAN submit a paper to the main deadline, even if you didn't participate in the pre-submission mentoring.
 
+If you choose to participate in the pre-submission mentorship program, you should also submit your paper via [https://softconf.com/aacl2022/SRW/](https://softconf.com/aacl2022/SRW/) (deadline is Aug 12, 2022), and **select the "Yes" option in the button for Pre-submission mentorship**.
+
 # Call for Papers
 ## General Rules for Submission
 The AACL-IJCNLP 2022 Student Research Workshop (SRW) provides a forum for student researchers who are investigating various areas related to Computational Linguistics and Natural Language Processing. The workshop provides an excellent opportunity for student participants to present their work and receive valuable feedback from the international research community as well as from selected panelists - experienced researchers, specifically assigned according to the topic of their work, who will prepare in-depth comments and questions in advance of the presentation.
