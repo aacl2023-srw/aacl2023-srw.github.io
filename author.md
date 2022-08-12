@@ -28,7 +28,7 @@ If you have posted a non-anonymized version of your paper online before the star
 
 ## Pre-submission Mentoring Procedure
 
-Paper drafts for pre-submission mentoring should be sent in the PDF format before Aug 12, 2022. 
+Paper drafts for pre-submission mentoring should be sent in the PDF format before Aug 12, 2022. If you choose to participate in the pre-submission mentorship program, you should also submit your paper via [https://softconf.com/aacl2022/SRW/](https://softconf.com/aacl2022/SRW/), and **select the "Yes" option in the button for Pre-submission mentorship**.
 
 Pre-submission mentoring is not anonymous. The mentor will not review the final submission. Papers sent for pre-submission mentoring but not submitted via the electronic system (see the instructions below) by Sep 9, 2022, will not be reviewed.
 
