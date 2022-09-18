@@ -17,9 +17,3 @@ Participants will receive a mentor who will review and provide feedback to the s
 ## Mentoring of Accepted Papers
 
 There will also be mentors who provide feedback to students in the form of in-depth comments and questions for the workshop presentation.
-
-## Pre-submission Mentors
-- TBA
-
-## Post-accept Mentors
-- TBA
