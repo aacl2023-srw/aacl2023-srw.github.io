@@ -46,7 +46,7 @@ Topics of interest include ( but are not limited to):
 - Pre-submission mentoring deadline: Aug 12, 2022
 - Pre-submission feedback: Sep 2, 2022
 - Paper submission deadline: Sep 9, 2022
-- Acceptance notifications: Oct 7, 2022
+- Acceptance notifications: Oct 10, 2022
 - Camera-ready deadline: Oct 21, 2022
 - Workshop date: Nov 20, 2022
 
