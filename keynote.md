@@ -9,7 +9,8 @@ order : 2
 We are delighted to have __Dr Yanran Li__ as our keynote speaker at the Student Research Workshop (SRW) of AACL-IJCNLP 2022.
 The following are the details of the keynote talk.
 
-<center><img src="/assets/EmilyMBender.jpeg" width="35%"/></center>
+<center><img src="/assets/YanranLi.jpg" width="35%"/></center>
+
 #### Topic
 The Development of Empathetic Conversational Systems: Maintain Interdisciplinary Vision and Identify Research Problem
 
