@@ -59,10 +59,7 @@ order : 1
 See the details of the <a href="/program/keynote">Keynote Session</a>. 
 
 <h2>Schedule</h2>
-See the <a href="/program/schedule">SRW Schedule</a> 
-
-<h2>Accepted Papers</h2>
-See the list of <a href="/program/accepted_list">accepted papers</a>.
+See the <a href="/program/schedule">SRW Schedule</a>
 
 <h2> Best Paper Award </h2>
 The following are the winners of the Best Paper Award of the Student Research Workshop of AACL-IJCNLP 2022: TBA

@@ -14,6 +14,15 @@ Note that even though the mentoring is not done anonymously, the paper needs to 
 
 Participants will receive a mentor who will review and provide feedback to the student within 2-3 weeks. This mentor will not be the same person who will review the final submission. The feedback will be in the format of guidelines and suggestions to improve the overall writing; students are not required to make the changes suggested by the pre-submission mentor.
 
-## Mentoring of Accepted Papers
-
-There will also be mentors who provide feedback to students in the form of in-depth comments and questions for the workshop presentation.
+# Pre-submission Mentors
+- François Charton
+- Sedigheh Eslami
+- Mor Geva
+- Jian Guan
+- Itika Gupta
+- Yanran Li
+- Bin Liang
+- Yusheng Su
+- Zhixing Tan
+- Huiyuan Yang
+- Xiaoqing Zheng
