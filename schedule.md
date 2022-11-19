@@ -61,18 +61,11 @@ order : 2
   </td>
 </tr>
 
-<tr bgcolor="#d0d0d0">
-  <td> 14:05 - 15:00 </td>
-  <td> <b>Keynote Address</b> </td>
-</tr>
-
 <tr bgcolor="#ededed">
-  <td colspan="2" style="font-size: small;">
-  <b>The Development of Empathetic Conversational Systems: Maintain Interdisciplinary Vision and Identify Research Problem</b>
-  <a href="{{ sit.baseurl }}/program/keynote">Keynote information</a>
-  <!--<a class='pdf_input' href="{{ site.baseurl }}/pdfs/Bender-AACL-SRW-2020.pdf">pdf</a>-->
-  <br>
-  <i>Yanran Li</i>
+  <td> 14:05 - 15:00 </td>
+  <td> <b>Keynote Address: </b> <br>
+  <b>The Development of Empathetic Conversational Systems: Maintain Interdisciplinary Vision and Identify Research Problem</b> <br>
+  <i>Yanran Li <a href="{{ sit.baseurl }}/program/keynote">Keynote information</a></i>
   </td>
 </tr>
 
