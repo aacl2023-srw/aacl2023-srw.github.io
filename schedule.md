@@ -56,7 +56,7 @@ order : 2
 
 <tr bgcolor="#a0a0a0">
   <td> 14:00 - 14:05 </td>
-  <td> Welcome and Opening Remarks
+  <td> <b>Welcome and Opening Remarks</b>
   <!--<a class='pdf_input' href="{{ site.baseurl }}/pdfs/opening_remarks_aacl2022srw.pdf">pdf</a>-->
   </td>
 </tr>
