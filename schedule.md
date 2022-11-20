@@ -55,14 +55,14 @@ order : 2
 <tr bgcolor="#707070"> <td colspan="2"> <font color="#e9e9e9"> <b>November 20, 2022 (GMT+8)</b> </font> </td> </tr>
 
 <tr bgcolor="#a0a0a0">
-  <td> 14:00 - 14:05 </td>
+  <td> 14:00 - 14:15 </td>
   <td> <b>Welcome and Opening Remarks</b>
-  <!--<a class='pdf_input' href="{{ site.baseurl }}/pdfs/opening_remarks_aacl2022srw.pdf">pdf</a>-->
+  <a class='pdf_input' href="{{ site.baseurl }}/pdfs/Opening_Remarks_AACL2022SRW.pdf">pdf</a>
   </td>
 </tr>
 
 <tr bgcolor="#ededed">
-  <td> 14:05 - 15:00 </td>
+  <td> 14:15 - 15:00 </td>
   <td> <b>Keynote Address: </b> <br>
   <b>The Development of Empathetic Conversational Systems: Maintain Interdisciplinary Vision and Identify Research Problem</b> <br>
   <i>Yanran Li <a href="{{ sit.baseurl }}/program/keynote">Keynote information</a></i>
