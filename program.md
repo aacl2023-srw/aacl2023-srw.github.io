@@ -63,7 +63,22 @@ See the <a href="/program/schedule">SRW Schedule</a>
 
 <h2> Awards </h2>
 
-The Best Paper goes to:
+<h2> Best Paper Award </h2>
+<p>The following are the winners of the Best Paper Award and the Best Presentation Award</p>
+<div style="float:left; width:35%;">
+  <img src="/assets/best_paper.jpg" style="width:100%; margin: 0 0 7px 0;" />
+  <!--<a class="pdf_input" href="https://www.aclweb.org/anthology/2020.aacl-srw.13.pdf">pdf</a>
+  <a class="abs_input" href="/accepted/1059.html">abs</a>
+  <a class="video_input" href="https://www.youtube.com/watch?v=6cUeKRhQzVs">video</a>-->
+</div>
+<div style="float:right; width:35%;">
+  <img src="/assets/best_presentation.jpg" style="width:100%; margin: 0 0 7px 0;" />
+  <!--<a class="pdf_input" href="https://www.aclweb.org/anthology/2020.aacl-srw.23.pdf">pdf</a>
+  <a class="abs_input" href="/accepted/1066.html">abs</a>
+  <a class="video_input" href="https://www.youtube.com/watch?v=G_MWiCsjtGI">video</a>-->
+</div>
+
+<!--The Best Paper goes to:
 
 <p align="center"> <b>Empirical Investigation of Neural Symbolic Reasoning Strategies</b> </p>
 
@@ -78,6 +93,6 @@ The Best Presentation goes to:
 
  <p align="center"> Li-Kuang Chen(presenter), Canasai Kruengkrai and Junichi Yamagishi </p>
 
-<p align="center"> National Tsing Hua University, National Institute of Informatics </p>
+<p align="center"> National Tsing Hua University, National Institute of Informatics </p>-->
 
 
