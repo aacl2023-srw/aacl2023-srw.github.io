@@ -67,7 +67,7 @@ The Best Paper goes to:
 
 <p align="center"> <b>Empirical Investigation of Neural Symbolic Reasoning Strategies</b> </p>
 
-<p align="center"> Author List: Yoichi Aoki, Keito Kudo, Tatsuki Kuribayashi, Ana Brassard, Masashi Yoshikawa, Keisuke Sakaguchi and Kentaro Inui </p>
+<p align="center"> Yoichi Aoki, Keito Kudo, Tatsuki Kuribayashi, Ana Brassard, Masashi Yoshikawa, Keisuke Sakaguchi and Kentaro Inui </p>
 
 <p align="center"> Tohoku University, Langsmith Inc, RIKEN AIP </p>
 
