@@ -61,5 +61,23 @@ See the details of the <a href="/program/keynote">Keynote Session</a>.
 <h2>Schedule</h2>
 See the <a href="/program/schedule">SRW Schedule</a>
 
-<h2> Best Paper Award </h2>
-The following are the winners of the Best Paper Award of the Student Research Workshop of AACL-IJCNLP 2022: TBA
+<h2> Awards </h2>
+
+The Best Paper goes to:
+
+<p align="center"> <b>Empirical Investigation of Neural Symbolic Reasoning Strategies</b> </p>
+
+<p align="center"> Author List: Yoichi Aoki, Keito Kudo, Tatsuki Kuribayashi, Ana Brassard, Masashi Yoshikawa, Keisuke Sakaguchi and Kentaro Inui </p>
+
+<p align="center"> Tohoku University, Langsmith Inc, RIKEN AIP </p>
+
+
+The Best Presentation goes to: 
+
+<p align="center"> <b>Outlier-Aware Training for Improving Group Accuracy Disparities</b> </p>
+
+ <p align="center"> Li-Kuang Chen(presenter), Canasai Kruengkrai and Junichi Yamagishi </p>
+
+<p align="center"> National Tsing Hua University, National Institute of Informatics </p>
+
+
