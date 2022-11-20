@@ -65,14 +65,14 @@ See the <a href="/program/schedule">SRW Schedule</a>
 
 <p>The Best Paper Award goes to ...</p>
 <!--<div style="float:left; width:35%;">-->
-  <img src="/assets/best_paper.jpg" style="width:80%; margin: 0 0 7px 0;" />
+  <img src="/assets/best_paper.jpg" style="width:70%; margin: 0 0 7px 0;" />
   <!--<a class="pdf_input" href="https://www.aclweb.org/anthology/2020.aacl-srw.13.pdf">pdf</a>
   <a class="abs_input" href="/accepted/1059.html">abs</a>
   <a class="video_input" href="https://www.youtube.com/watch?v=6cUeKRhQzVs">video</a>-->
 <!--</div>-->
 <p> The Best Presentation Award goes to ... </p>
 <!--<div style="float:right; width:35%;">-->
-  <img src="/assets/best_presentation.jpg" style="width:80%; margin: 0 0 7px 0;" />
+  <img src="/assets/best_presentation.jpg" style="width:70%; margin: 0 0 7px 0;" />
   <!--<a class="pdf_input" href="https://www.aclweb.org/anthology/2020.aacl-srw.23.pdf">pdf</a>
   <a class="abs_input" href="/accepted/1066.html">abs</a>
   <a class="video_input" href="https://www.youtube.com/watch?v=G_MWiCsjtGI">video</a>-->
