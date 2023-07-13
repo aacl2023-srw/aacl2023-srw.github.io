@@ -8,7 +8,7 @@
 # # About/contact
 # author:
 #   name:       Author name
-#   url:        http://yourhomepage.com 
+#   url:        http://yourhomepage.com
 
 # # Gems
 # gems:
@@ -18,48 +18,47 @@
 # markdown: kramdown
 theme: jekyll-theme-cayman
 # Site Settings
-locale                   : "en"
-baseurl                  : ""
-title                    : "AACL-IJCNLP 2022 Student Research Workshop (SRW)"
-title_separator          : "-"
-name                     : "ACL"
-description              : "In conjunction with AACL-IJCNLP 2022" 
-breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+locale: "en"
+baseurl: ""
+title: "AACL-IJCNLP 2023 Student Research Workshop (SRW)"
+title_separator: "-"
+name: "ACL"
+description: "In conjunction with AACL-IJCNLP 2023"
+breadcrumbs: false # true, false (default)
+words_per_minute: 200
 comments:
-  provider               : "disqus"
+  provider: "disqus"
   disqus:
-    shortname            : "aacl2022srw"
+    shortname: "aacl2023srw"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey:
+  secret:
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (ssdefault)
-search_provider          : # lunr (default), algolia, google
+  path: # blank (default) uses feed.xml
+search: # true, false (default)
+search_full_content: # true, false (ssdefault)
+search_provider: # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
 google:
-  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
-  instant_search         : # false (default), true
+  search_engine_id: # YOUR_SEARCH_ENGINE_ID
+  instant_search: # false (default), true
 # Google services
 google_analytics: UA-130089984-1
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
-naver_site_verification  :
+google_site_verification:
+bing_site_verification:
+yandex_site_verification:
+naver_site_verification:
 # # Reading Files
 # include : ['.htaccess', '_pages', ]
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: aacl-srw22@googlegroups.com
+  email: aacl-srw-2023@googlegroups.com
   twitter: aacl_srw
-  
