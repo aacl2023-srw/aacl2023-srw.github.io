@@ -2,20 +2,29 @@
 layout: page
 title: "Organization"
 permalink: /organization
-order : 1
+order: 1
 ---
+
 # Organization
 
 ### Student Chairs
-- [Hanqi Yan](https://warwick.ac.uk/fac/sci/dcs/people/u2048587/), University of Warwick, UK
-- [Zonghan Yang](https://minicheshire.github.io), Tsinghua University, China
 
-### Faculty Advisors 
-- [Sebastian Ruder](https://ruder.io/), DeepMind, UK
-- [Xiaojun Wan](https://wanxiaojun.github.io/), Peking University, China
+- [Dongfang Li](https://crazyofapple.github.io/), Harbin Institute of Technology (Shenzhen), China
+- [Rahmad Mahendra](https://cs.ui.ac.id/en/personnel/rahmad-mahendra/), Monash University, Australia
+- [Zilu Peter Tang](https://pootiet.github.io/), Boston University, USA
+- [Minghao Wu](https://minghao-wu.github.io/), Monash University, Australia
+- [Haolan Zhang](https://www.linkedin.com/in/haolan-zhan-792b42196/o), Monash University, Australia
+- [Jinming Michelle Zhao](https://www.linkedin.com/in/michelle-jinming-zhao-a82b0497/), Monash University, Australia
+
+### Faculty Advisors
+
+- [Hyeju Jang](https://cs.iupui.edu/~hyejuj/), Indiana University Purdue University Indianapolis (IUPUI), USA
+- [Yugo Murawaki](https://murawaki.org/), Kyoto University, Japan
+- [Derek Fai WONG](https://www.fst.um.edu.mo/people/derekfw/), University of Macau, China
 
 ### Program Committee
-- Piush Aggarwal
+
+<!-- - Piush Aggarwal
 - Evelin Amorim
 - Ali Araabi
 - Ehsaneddin Asgari
@@ -103,4 +112,4 @@ order : 1
 - Ce Zheng
 - Zhong Zhou
 - Qinhong Zhou
-- Pierre Zweigenbaum
+- Pierre Zweigenbaum -->

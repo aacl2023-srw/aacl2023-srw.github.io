@@ -2,7 +2,7 @@
 layout: page
 title: "Schedule"
 permalink: /program/schedule
-order : 2
+order: 2
 ---
 
 <style>
@@ -50,9 +50,10 @@ order : 2
 }
 </style>
 
-## AACL-IJCNLP 2022 SRW Schedule
-<div style="float:left; width:70%; font-size: 15px;"> <table> <tbody>
-<tr bgcolor="#707070"> <td colspan="2"> <font color="#e9e9e9"> <b>November 20, 2022 (GMT+8)</b> </font> </td> </tr>
+## AACL-IJCNLP 2023 SRW Schedule
+
+<!-- <div style="float:left; width:70%; font-size: 15px;"> <table> <tbody>
+<tr bgcolor="#707070"> <td colspan="2"> <font color="#e9e9e9"> <b>November 1, 2023 (GMT+8)</b> </font> </td> </tr>
 
 <tr bgcolor="#a0a0a0">
   <td> 14:00 - 14:15 </td>
@@ -68,10 +69,6 @@ order : 2
   <i>Yanran Li <a href="{{ sit.baseurl }}/program/keynote">Keynote information</a></i>
   </td>
 </tr>
-
-<!--<a class='pdf_input' href="https://www.aclweb.org/anthology/2020.aacl-srw.1.pdf">pdf</a>
-<a class='abs_input' href="{{ site.baseurl }}/accepted/1040.html">abs</a>
-<a class='video_input' href="https://www.youtube.com/watch?v=EWo5yKSJah0">video</a>-->
 
 <tr bgcolor="#d0d0d0">
   <td> 15:00 - 15:20 </td>
@@ -150,7 +147,6 @@ order : 2
   </td>
 </tr>
 
-
 <tr bgcolor="#d0d0d0">
   <td> 18:00 - 18:20 </td>
   <td>
@@ -173,7 +169,6 @@ order : 2
   <td> 18:40 - 19:40 </td>
   <td> <b>Long Break</b> </td>
 </tr>
-
 
 <tr bgcolor="#d0d0d0">
   <td> 19:40 - 20:00 </td>
@@ -211,7 +206,6 @@ order : 2
   </td>
 </tr>
 
-
 <tr bgcolor="#d0d0d0">
   <td> 21:00 - 21:20 </td>
   <td>
@@ -239,7 +233,7 @@ order : 2
   <td> 22:20 - 22:30 </td>
   <td> <b>Best Paper Award and Closing Remarks</b> </td>
 </tr>
-</tbody> </table> </div>
+</tbody> </table> </div> -->
 
 <br>
 <br>
