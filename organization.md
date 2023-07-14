@@ -10,7 +10,7 @@ order: 1
 ### Student Chairs
 
 - [Dongfang Li](https://crazyofapple.github.io/), Harbin Institute of Technology (Shenzhen), China
-- [Rahmad Mahendra](https://cs.ui.ac.id/en/personnel/rahmad-mahendra/), Monash University, Australia
+- [Rahmad Mahendra](https://cs.ui.ac.id/en/personnel/rahmad-mahendra/), RMIT University, Australia
 - [Zilu Peter Tang](https://pootiet.github.io/), Boston University, USA
 - [Minghao Wu](https://minghao-wu.github.io/), Monash University, Australia
 - [Haolan Zhang](https://www.linkedin.com/in/haolan-zhan-792b42196/o), Monash University, Australia
@@ -20,7 +20,7 @@ order: 1
 
 - [Hyeju Jang](https://cs.iupui.edu/~hyejuj/), Indiana University Purdue University Indianapolis (IUPUI), USA
 - [Yugo Murawaki](https://murawaki.org/), Kyoto University, Japan
-- [Derek Fai WONG](https://www.fst.um.edu.mo/people/derekfw/), University of Macau, China
+- [Derek Fai Wong](https://www.fst.um.edu.mo/people/derekfw/), University of Macau, China
 
 ### Program Committee
 
