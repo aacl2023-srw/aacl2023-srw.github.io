@@ -23,8 +23,20 @@ bundle update
 bundle install
 ```
 
-## How to deploy
+## How to run locally
 
 ```bash
 bundle exec jekyll serve
 ```
+
+## How to deploy (on github)
+
+This repo is enabled with automatic deployment from master branch. If you make a push/PR to the masterbranch, the update will automatically be reflected in the deployed website.
+
+If somehow this is not set up, follow theses steps:
+
+1. Navigate to repo `Settings` -> `Pages`
+2. Under `Build and deployment` tab `Source` dropdown, pick `Deploy from a branch`.
+3. In `Branch`, pick `master` and `/(root)`
+
+You should be all set. For other customized deployment, check out github official [doc](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
