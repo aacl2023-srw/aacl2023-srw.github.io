@@ -87,4 +87,4 @@ The main features:
 - Use of the familiar Likert agree/disagree scale for the various paper criteria
 - Four new paper criteria: Generalizability, Interestingness, Structure (in addition to Readability), Ethics
 
-You can download the review form <a href="{{ site.baseurl }}/pdfs/aacl2023_srw_review_from.pdf">here</a>.
+You can download the review form <a href="{{ site.baseurl }}/pdfs/aacl_2023_ReviewForm.pdf">here</a>.
