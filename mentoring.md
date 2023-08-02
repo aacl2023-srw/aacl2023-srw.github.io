@@ -18,7 +18,13 @@ Participants will receive a mentor who will review and provide feedback to the s
 
 # Pre-submission Mentors
 
-TODO
+- David Adelani
+- Raj Dabre
+- Dipankar Das
+- Vivek Gupta
+- Fajri Koto
+- Ellie Pavlick
+- Abhilasha Ravichander
 
 <!-- - François Charton
 - Sedigheh Eslami
