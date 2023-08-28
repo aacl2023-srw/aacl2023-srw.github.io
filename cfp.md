@@ -9,7 +9,7 @@ Student Research Workshop Collocated with AACL-IJCNLP 2023
 
 Date: Nov 1, 2023
 
-**\*Paper Submission Deadline: Aug 25, 2023 \*\***
+**\*Paper Submission Deadline: Sep 1, 2023 \*\***
 
 Submissions should be made on the START conference system: [https://softconf.com/ijcnlp2023/SRW2023/](https://softconf.com/ijcnlp2023/SRW2023/)
 
@@ -50,7 +50,7 @@ We invite papers in three different categories:
 
 - Pre-submission mentorship application deadline: Aug 4 (Fri), 2023
 - Pre-submission feedback: Aug 18 (Fri), 2023
-- Paper submission deadline: Aug 25 (Fri), 2023
+- Paper submission deadline: Sep 1 (Fri), 2023
 - Acceptance notifications: Oct 2 (Mon), 2023
 - Camera-ready deadline: Oct 15 (Sun), 2023
 - Workshop date: Nov 1 (Wed), 2023

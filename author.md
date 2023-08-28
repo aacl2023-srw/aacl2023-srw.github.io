@@ -22,7 +22,7 @@ If you have posted a non-anonymized version of your paper online before the star
 
 Paper drafts for pre-submission mentoring should be sent in the PDF format before Aug 4, 2023. If you choose to participate in the pre-submission mentorship program, you should also submit your paper via [https://softconf.com/ijcnlp2023/SRW2023/](https://softconf.com/ijcnlp2023/SRW2023/), and **select the "Yes" option in the button for Pre-submission mentorship**.
 
-Pre-submission mentoring is not anonymous. The mentor will not review the final submission. Papers sent for pre-submission mentoring but not submitted via the electronic system (see the instructions below) by Aug 25, 2023, will not be reviewed.
+Pre-submission mentoring is not anonymous. The mentor will not review the final submission. Papers sent for pre-submission mentoring but not submitted via the electronic system (see the instructions below) by Sep 1, 2023, will not be reviewed.
 
 The complete list of important dates are the main page.
 

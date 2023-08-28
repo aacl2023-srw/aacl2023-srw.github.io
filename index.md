@@ -13,7 +13,7 @@ The AACL-IJCNLP 2023 Student Research Workshop (SRW) will be held in conjunction
 
 - Pre-submission mentorship application deadline: Aug 4 (Fri), 2023
 - Pre-submission feedback: Aug 18 (Fri), 2023
-- Paper submission deadline: Aug 25 (Fri), 2023
+- Paper submission deadline: Sep 1 (Fri), 2023
 - Acceptance notifications: Oct 2 (Mon), 2023
 - Camera-ready deadline: Oct 15 (Sun), 2023
 - Workshop date: Nov 1 (Wed), 2023
@@ -27,9 +27,9 @@ Submissions should be made on the START conference system: [https://softconf.com
 - [Dongfang Li](https://crazyofapple.github.io/), Harbin Institute of Technology (Shenzhen), China
 - [Rahmad Mahendra](https://cs.ui.ac.id/en/personnel/rahmad-mahendra/), RMIT University, Australia
 - [Zilu Peter Tang](https://pootiet.github.io/), Boston University, USA
-- [Minghao Wu](https://minghao-wu.github.io/), Monash University, Australia
+<!-- - [Minghao Wu](https://minghao-wu.github.io/), Monash University, Australia
 - [Haolan Zhang](https://www.linkedin.com/in/haolan-zhan-792b42196/o), Monash University, Australia
-- [Jinming Michelle Zhao](https://www.linkedin.com/in/michelle-jinming-zhao-a82b0497/), Monash University, Australia
+- [Jinming Michelle Zhao](https://www.linkedin.com/in/michelle-jinming-zhao-a82b0497/), Monash University, Australia -->
 
 # Student Research Workshop Faculty Advisors
 
