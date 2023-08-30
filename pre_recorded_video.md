@@ -15,7 +15,7 @@ order: 1
 - Format of the name of the uploaded video:\\
   **SRW-[Paper ID].mp4**
 - The video should be uploaded into the WebDisk. The author only has the authority to upload and read but cannot delete or modify. If there is any problem with the uploaded video, please upload again, and we will choose the one with the newest timestamp.
-- If you have any problem uploading the video, please contact the Remote Presentation Co-Chairs of AACL-IJCNLP 2023:
+- If you have any problem uploading the video, please contact the Remote Presentation Co-Chairs of IJCNLP-AACL 2023:
   - TBA
 
 # How to upload the video

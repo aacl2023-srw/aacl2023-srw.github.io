@@ -12,7 +12,7 @@ order: 1
 ## When and where do I send my final camera-ready paper?
 
 The deadline is XXX YYY (11:59pm, UTC-12 hours, “anywhere on Earth”).
-You may submit the final version of your paper by navigating to the TBA <!--[AACL-IJCNLP 2020 SRW START login](https://www.softconf.com/aacl-ijcnlp2020/SRW/)--> and following the internal links.
+You may submit the final version of your paper by navigating to the TBA <!--[IJCNLP-AACL 2020 SRW START login](https://www.softconf.com/aacl-ijcnlp2020/SRW/)--> and following the internal links.
 
 ## How should I enter metadata on the START system?
 
@@ -51,7 +51,7 @@ The camera-ready version of your paper should incorporate the comments of the re
 As a central venue of publication for our community, please prioritize the accessibility of your final version. The Diversity & Inclusion committee for ACL2020 has outlined some tips on how to do this:
 https://acl2020.org/blog/accessibility-for-camera-ready/
 
-<!--In addition, the D&I chairs for AACL-IJCNLP 2020 SRW are working with Grammarly to help authors improve their writing.
+<!--In addition, the D&I chairs for IJCNLP-AACL 2020 SRW are working with Grammarly to help authors improve their writing.
 They have a form for authors to fill in if they need some assistance, which is available [here](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__Qqi6BNUMVRRQjlPSUxaQUgwRE5FSkFIR01OT1FHTy4u).
 You can contact them via emails <a href="mailto: xiangyuduan@suda.edu.cn">xiangyuduan@suda.edu.cn</a> and <a href="mailto: tirthankar.slg@gmail.com">tirthankar.slg@gmail.com</a> for more details.-->
 
@@ -59,7 +59,7 @@ You can contact them via emails <a href="mailto: xiangyuduan@suda.edu.cn">xiangy
 
 Supplemental material can be divided into two types: appendices and non-readable supplemental material.
 
-- Appendices are material that can be read, and include lemmas, formulas, proofs, and tables that are not critical to the reading and understanding of the paper. In your final camera-ready paper, appendices come after the references in the main paper and use the same two-column format as the rest of the paper (see the AACL-IJCNLP 2023 style files for an example). Appendices do not count towards the page limit.
+- Appendices are material that can be read, and include lemmas, formulas, proofs, and tables that are not critical to the reading and understanding of the paper. In your final camera-ready paper, appendices come after the references in the main paper and use the same two-column format as the rest of the paper (see the IJCNLP-AACL 2023 style files for an example). Appendices do not count towards the page limit.
 - Non-readable supplemental material (data, software, all other material) is uploaded separately.
 
 ## How long can it be?

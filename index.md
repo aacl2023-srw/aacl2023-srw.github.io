@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "AACL-IJCNLP Student Research Workshop (SRW) 2023"
+title: "IJCNLP-AACL Student Research Workshop (SRW) 2023"
 permalink: /
 order: 1
 ---
 
-# Welcome to AACL-IJCNLP SRW 2023
+# Welcome to IJCNLP-AACL SRW 2023
 
-The AACL-IJCNLP 2023 Student Research Workshop (SRW) will be held in conjunction with the AACL-IJCNLP 2023 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
+The IJCNLP-AACL 2023 Student Research Workshop (SRW) will be held in conjunction with the IJCNLP-AACL 2023 conference. The SRW gives student researchers in Computational Linguistics and Natural Language Processing the opportunity to present their work and receive constructive feedback and mentorship by experienced members of the ACL community.
 
 ## Important Dates
 
@@ -39,7 +39,7 @@ Submissions should be made on the START conference system: [https://softconf.com
 
 # Anti-Harassment Policy
 
-The AACL-IJCNLP Student Research Workshop 2023 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
+The IJCNLP-AACL Student Research Workshop 2023 adheres to the [ACL anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Please contact any current member of the [ACL Executive Committee](https://www.aclweb.org/portal/about) or [Priscilla Rasmussen](mailto:acl@aclweb.org) if you face any harassment or hostile behavior.
 
 <!--
 # Sponsored By

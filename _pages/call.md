@@ -5,7 +5,7 @@ permalink: /cfp
 
 # Call for Papers
 
-Student Research Workshop Collocated with AACL-IJCNLP 2023.
+Student Research Workshop Collocated with IJCNLP-AACL 2023.
 
 Date: November 1, 2023
 
@@ -19,7 +19,7 @@ You CAN submit a paper to the main deadline, even if you didn't participate in t
 
 ## General Rules for Submission
 
-The AACL-IJCNLP 2023 Student Research Workshop (SRW) provides a forum for student researchers who are investigating various areas related to Computational Linguistics and Natural Language Processing. The workshop provides an excellent opportunity for student participants to present their work and receive valuable feedback from the international research community as well as from selected panelists - experienced researchers, specifically assigned according to the topic of their work, who will prepare in-depth comments and questions in advance of the presentation.
+The IJCNLP-AACL 2023 Student Research Workshop (SRW) provides a forum for student researchers who are investigating various areas related to Computational Linguistics and Natural Language Processing. The workshop provides an excellent opportunity for student participants to present their work and receive valuable feedback from the international research community as well as from selected panelists - experienced researchers, specifically assigned according to the topic of their work, who will prepare in-depth comments and questions in advance of the presentation.
 
 The workshop's goal is to aid students at multiple stages of their education: including undergraduate, masters, junior and senior PhD students.
 
@@ -27,7 +27,7 @@ We invite papers in two different categories:
 
 - **Thesis Proposals**: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
 - **Research Papers** : Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student.
-  Topics of interest for the SRW are the same as the AACL-IJCNLP 2023 main conference. See the list of topics [here](http://www.ijcnlp-aacl2023.org/) (under Calls -> Main Papers -> Submission Topics).
+  Topics of interest for the SRW are the same as the IJCNLP-AACL 2023 main conference. See the list of topics [here](http://www.ijcnlp-aacl2023.org/) (under Calls -> Main Papers -> Submission Topics).
 
 ## Benefits of participation
 

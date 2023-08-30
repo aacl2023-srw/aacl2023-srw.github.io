@@ -7,10 +7,10 @@ order: 1
 
 # Author Guidelines
 
-The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. AACL-IJCNLP SRW 2023 will adhere to these policies and guidelines. Submissions should:
+The ACL has released policies for submission, review and citation. Accompanying these are guidelines for authors. IJCNLP-AACL SRW 2023 will adhere to these policies and guidelines. Submissions should:
 
-- **Be relevant**: Submissions to AACL-IJCNLP SRW 2023 should be relevant to the audience.
-- **Be original**: The content of submissions to AACL-IJCNLP SRW 2023 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
+- **Be relevant**: Submissions to IJCNLP-AACL SRW 2023 should be relevant to the audience.
+- **Be original**: The content of submissions to IJCNLP-AACL SRW 2023 (the ideas, the findings, the results and the words) should be original; that is, should not have been published (or be accepted for publication) in another refereed, archival form (such as a book, a journal, or a conference proceedings). Authors are referred to the ACL author guidelines for additional information on what constitutes existing publication.
 
 # IMPORTANT: Anonymity Period
 
@@ -30,9 +30,9 @@ For details on mentoring procedure see the mentoring page.
 
 ## Submission Procedure
 
-All papers consist of up to five (5) pages of content, plus unlimited references. Supplementary materials are **not** allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer's comments in their final versions. Submissions must conform to the specifications of AACL-IJCNLP 2023 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
+All papers consist of up to five (5) pages of content, plus unlimited references. Supplementary materials are **not** allowed. Upon acceptance, papers will be given six (6) content pages in the proceedings. Authors are encouraged to use this additional page to address reviewer's comments in their final versions. Submissions must conform to the specifications of IJCNLP-AACL 2023 call for papers regarding multiple submissions and preparing papers for the double-blind review process.
 
-Paper submissions must use the official AACL-IJCNLP 2023 style templates: See the [ARR CFP guidelines](https://aclrollingreview.org/cfp).
+Paper submissions must use the official IJCNLP-AACL 2023 style templates: See the [ARR CFP guidelines](https://aclrollingreview.org/cfp).
 
 <!--
 Latex Style sheets are available here: TBA [http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip](http://aacl2020.org/downloads/aacl-ijcnlp2020-templates.zip)
@@ -49,11 +49,11 @@ Please submit using the START conference system: [https://softconf.com/ijcnlp202
 
 ## Multiple Submission Policy
 
-Papers that have been or will be submitted to other meetings or publications must indicate this at submission time. Authors of papers accepted for presentation at AACL-IJCNLP SRW 2023 must notify the program chairs whether the paper will be presented.
+Papers that have been or will be submitted to other meetings or publications must indicate this at submission time. Authors of papers accepted for presentation at IJCNLP-AACL SRW 2023 must notify the program chairs whether the paper will be presented.
 
 All accepted papers must be presented at the workshop in order for them to appear in the proceedings. We will not accept for publication or presentation papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
 
-Double submission to the AACL-IJCNLP SRW and other AACL-IJCNLP workshops is prohibited.
+Double submission to the IJCNLP-AACL SRW and other IJCNLP-AACL workshops is prohibited.
 
 In the case of two different submissions, the authors must ensure that these submissions do not overlap significantly (> 75%) with each other in content or results.
 

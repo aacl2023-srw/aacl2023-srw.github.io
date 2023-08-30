@@ -50,7 +50,7 @@ order: 2
 }
 </style>
 
-## AACL-IJCNLP 2023 SRW Schedule
+## IJCNLP-AACL 2023 SRW Schedule
 
 <!-- <div style="float:left; width:70%; font-size: 15px;"> <table> <tbody>
 <tr bgcolor="#707070"> <td colspan="2"> <font color="#e9e9e9"> <b>November 1, 2023 (GMT+8)</b> </font> </td> </tr>

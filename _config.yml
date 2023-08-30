@@ -20,10 +20,10 @@ theme: jekyll-theme-cayman
 # Site Settings
 locale: "en"
 baseurl: ""
-title: "AACL-IJCNLP 2023 Student Research Workshop (SRW)"
+title: "IJCNLP-AACL 2023 Student Research Workshop (SRW)"
 title_separator: "-"
 name: "ACL"
-description: "In conjunction with AACL-IJCNLP 2023"
+description: "In conjunction with IJCNLP-AACL 2023"
 breadcrumbs: false # true, false (default)
 words_per_minute: 200
 comments:

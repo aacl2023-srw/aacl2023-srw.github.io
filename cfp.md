@@ -5,7 +5,7 @@ permalink: /cfp
 order: 1
 ---
 
-Student Research Workshop Collocated with AACL-IJCNLP 2023
+Student Research Workshop Collocated with IJCNLP-AACL 2023
 
 Date: Nov 1, 2023
 
@@ -21,13 +21,13 @@ If you choose to participate in the pre-submission mentorship program, you shoul
 
 ## General Rules for Submission
 
-The AACL-IJCNLP 2023 Student Research Workshop (SRW) provides a forum for student researchers who are investigating various areas related to Computational Linguistics and Natural Language Processing. The workshop provides an excellent opportunity for student participants to present their work and receive valuable feedback from the international research community as well as from selected panelists - experienced researchers, specifically assigned according to the topic of their work, who will prepare in-depth comments and questions in advance of the presentation.
+The IJCNLP-AACL 2023 Student Research Workshop (SRW) provides a forum for student researchers who are investigating various areas related to Computational Linguistics and Natural Language Processing. The workshop provides an excellent opportunity for student participants to present their work and receive valuable feedback from the international research community as well as from selected panelists - experienced researchers, specifically assigned according to the topic of their work, who will prepare in-depth comments and questions in advance of the presentation.
 
 The workshop's goal is to aid students at multiple stages of their education: including undergraduate, masters, junior and senior PhD students.
 
 We invite papers in three different categories:
 
-- **General Research Papers**: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student. Topics of interest for the SRW are the same as the AACL-IJCNLP 2023 main conference. See the list of topics [here](http://www.ijcnlp-aacl2023.org/) (under Calls -> Main Papers -> Submission Topics).
+- **General Research Papers**: Papers in this category can describe completed work, or work in progress with preliminary results. For these papers, the first author must be a current graduate or undergraduate student. Topics of interest for the SRW are the same as the IJCNLP-AACL 2023 main conference. See the list of topics [here](http://www.ijcnlp-aacl2023.org/) (under Calls -> Main Papers -> Submission Topics).
 - **Thesis Proposals**: This category is appropriate for advanced students who have decided on a thesis topic and wish to get feedback on their proposal and broader ideas for their continuing work.
 - **Special Theme: Understanding Large Langauge Models**: This category aims to delve into the cutting-edge research and advancements in the field of natural language processing, specifically focusing on large language models like GPT-3.5. These models, with their vast number of parameters and immense computational power, have shown unprecedented capabilities in tasks such as language generation, translation, and understanding. However, with their complexity, come challenges related to their interpretability, ethics, bias, and the potential societal impact of deploying such models. This theme invites researchers, practitioners, and experts to share insights and foster discussions about the inner workings of these models, their strengths and limitations, as well as strategies to ensure their responsible and ethical use for the benefit of society.
 <!-- - **Human-Centered NLP** : This is the special theme category in AACL-SRW 2022. The rising prevalence of living along with artificial intelligence has brought lots of benefits to people's daily life. However, it also poses a challenge of building reliable, explainable, and empathic tools to provide better service, from essential natural language applications (e.g., machine translation, text classification ) to mental support. Especially during the current pandemic, people are more likely to feel alone and _rely_ upon _technology_. This, together with the advances in the field of Natural Language processing, has motivated the exploration of human-centered technology. In this special theme, we invite submissions that address diverse human-centered questions, particularly encouraging bringing together perspectives and methods from NLP and affective computing to improve individuals' lives physically and mentally.
@@ -42,7 +42,7 @@ We invite papers in three different categories:
 
 - All accepted papers will be presented in the main conference poster session, giving students an opportunity to interact with and present their work to a large and diverse audience, including top researchers in the field.
 - All accepted thesis proposals will be presented during a session at the main conference, giving students an opportunity to receive feedback from assigned mentors and other researchers.
-- Submissions (in both categories) may either be archival or non-archival, based on the wishes of the authors. All archival papers will be published in the AACL-IJCNLP 2023 SRW Proceedings. All non-archival papers may be submitted to any venue in the future **except** another SRW.
+- Submissions (in both categories) may either be archival or non-archival, based on the wishes of the authors. All archival papers will be published in the IJCNLP-AACL 2023 SRW Proceedings. All non-archival papers may be submitted to any venue in the future **except** another SRW.
 - Each participant is also assigned a mentor - an experienced researcher - who can provide valuable advice on the submission during the pre-submission period and mentoring during the conference.
 - We are also planning on having an invited speaker who will share his/her perspectives on NLP research.
 
