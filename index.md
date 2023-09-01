@@ -27,6 +27,7 @@ Submissions should be made on the START conference system: [https://softconf.com
 - [Dongfang Li](https://crazyofapple.github.io/), Harbin Institute of Technology (Shenzhen), China
 - [Rahmad Mahendra](https://cs.ui.ac.id/en/personnel/rahmad-mahendra/), RMIT University, Australia
 - [Zilu Peter Tang](https://pootiet.github.io/), Boston University, USA
+
 <!-- - [Minghao Wu](https://minghao-wu.github.io/), Monash University, Australia
 - [Haolan Zhang](https://www.linkedin.com/in/haolan-zhan-792b42196/o), Monash University, Australia
 - [Jinming Michelle Zhao](https://www.linkedin.com/in/michelle-jinming-zhao-a82b0497/), Monash University, Australia -->
