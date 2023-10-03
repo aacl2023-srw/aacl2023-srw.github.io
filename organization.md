@@ -25,92 +25,55 @@ order: 1
 
 ### Program Committee
 
-<!-- - Piush Aggarwal
-- Evelin Amorim
-- Ali Araabi
-- Ehsaneddin Asgari
-- Valerio Basile
-- Anjali Bhavan
+- David Ifeoluwa Adelani
+- Afra Feyza Akyurek
+- Samuel Cahyawijaya
 - Ronald Cardenas
-- Jonathan P. Chang
-- Xinchi Chen
-- Sijie Cheng
-- Qinyuan Cheng
-- David Chiang
-- Ganqu Cui
-- Xiang Dai
-- Min-Yuh Day
-- Alok Debnath
-- Louise Deléger
-- Qingxiu Dong
-- John Dougrez-Lewis
-- Heba Elfardy
-- Micha Elsner
-- Matthew Engelhard
-- Zheng Fang
-- Qiaozi Gao
-- Tirthankar Ghosal
-- Udo Hahn
-- Hardy Hardy
-- Christopher Homan
-- Dirk Hovy
-- Shengding Hu
-- Hen-Hsen Huang
-- Kaiyu Huang
-- Jeff Jacobs
-- Masoud Jalili Sabet
-- Ganesh Jawahar
-- Zara Kancheva
-- Philipp Koehn
-- Varun Kumar
-- Artuur Leeuwenberg
-- Lei Li
+- Jonathan Chang
+- Justin Chiu
+- Chris Develder
+- Hicham EL BOUKKOURI
+- Carlos Escolano
+- Biaoyan Fang
+- Diana Galvan-Sosa
+- Ryuichiro Higashinaka
+- Wen Chin Huang
+- Muhammad Okky Ibrohim
+- Shailza Jolly
+- Muhammed Yusuf Kocyigit
+- Mamoru Komachi
+- Fajri Koto
+- Kemal Kurniawan
+- Gina-Anne Levow
+- Sheng Li
+- Yunxin Li
 - Jasy Suet Yan Liew
-- Xiaokai Liu
-- Xuebo Liu
-- Valentin Malykh
-- Xiaoyue Mi
-- Tsvetomila Mihaylova
-- Gosse Minnema
-- Pavankumar Reddy Muddireddy
-- Kenton Murray
+- Holy Lovenia
+- Patrick Lumban Tobing
+- Adib Mosharrof
+- Urwa Muaz
 - Masaaki Nagata
-- Mitra Pabitra
-- Endang Pamungkas
-- Lucy Park
-- Mah Parsa
+- Kiet Nguyen
+- Vincent Nguyen
+- Naoki Otani
+- Rifki Afina Putri
 - Ivaylo Radev
-- Sree Harsha Ramesh
-- Vikas Raunak
-- Arijit Sehanobish
-- Sunayana Sitaram
-- Kevin Small
-- Richard Sproat
-- Yusheng Su
-- Zhaoyue Sun
-- Shabnam Tafreshi
-- Liling Tan
-- Keegan Te Taka
-- Laure Thompson
-- Yan Wang
-- Xinyu Wang
-- Yuzhong Wang
-- Jun Wang
-- Jiashuo Wang
-- Shuo Wang
-- Xing Wang
+- Mathieu Ravaut
+- Ade Romadhony
+- Abulhair Saparov
+- Isidora Tourni
+- Bayu Distiawan Trisedya
+- Thinh Hung Truong
+- Sowmya Vajjala
+- Gisela Vallejo
+- Bailin Wang
+- Yuxia Wang
 - Bonnie Webber
-- Jheng-Long Wu
-- Zhenglu Yang
-- Zeyuan Yang
-- Michael Yoder
-- Yao Zhang
-- Xinran Zhang
-- Byoung-Tak Zhang
-- Xikun Zhang
-- Wenjia Zhang
-- Linhai Zhang
-- Ce Zheng
-- Zhong Zhou
-- Qinhong Zhou
-- Pierre Zweigenbaum -->
+- Bryan Wilie
+- Rui Xing
+- Hanqi Yan
+- Longfei Yang
+- Zheng Xin Yong
+- Zenan Zhai
+- Junchen Zhao
+- Rongxin Zhu
