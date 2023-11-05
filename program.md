@@ -62,13 +62,13 @@ See the details of the <a href="/program/keynote">Keynote Session</a>.
 <h2>Schedule</h2>
 See the <a href="/program/schedule">SRW Schedule</a>
 
-<!-- <h2> Awards </h2>
+<h2> Awards </h2>
 
 <p>The Best Paper Award goes to ...</p>
-<img src="/assets/best_paper.jpg" style="width:70%; margin: 0 0 7px 0;" />
+<img src="/assets/best_paper.png" style="width:70%; margin: 0 0 7px 0;" />
 
-<p> The Best Presentation Award goes to ... </p>
-<img src="/assets/best_presentation.jpg" style="width:70%; margin: 0 0 7px 0;" /> -->
+<!-- <p> The Best Presentation Award goes to ... </p>
+<img src="/assets/best_presentation.jpg" style="width:70%; margin: 0 0 7px 0;" />  -->
 
 <!--The Best Paper goes to:
 
