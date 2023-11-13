@@ -15,10 +15,6 @@ Yunmeng Li, Jun Suzuki, Makoto Morishita, Kaori Abe and Kentaro Inui
 
 Fadli Aulawi Al Ghiffari, Ika Alfina and Kurniawati Azizah
 
-**_Delving into Evaluation Metrics for Generation: A Thorough Assessment of How Metrics Generalize to Rephrasing Across Languages_**
-
-Grace Wang, Tia Chen and Duygu Ataman
-
 **_Evaluating Large Language Models' Understanding of Financial Terminology via Definition Modeling_**
 
 James Jhirad, Edison Marrese-Taylor and Yutaka Matsuo
@@ -58,3 +54,9 @@ Chenji Jin, Yoshimi Suzuki and Fei Lin
 **_Style-sensitive Sentence Embeddings for Evaluating Similarity in Speech Style of Japanese Sentences by Contrastive Learning_**
 
 Yuki Zenimoto, Shinzan Komata and Takehito Utsuro
+
+## Non-archival
+
+**_Delving into Evaluation Metrics for Generation: A Thorough Assessment of How Metrics Generalize to Rephrasing Across Languages_**
+
+Grace Wang, Tia Chen and Duygu Ataman
