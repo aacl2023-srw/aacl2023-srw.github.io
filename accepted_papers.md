@@ -5,6 +5,10 @@ permalink: /accepted
 order: 1
 ---
 
+## Proceedings
+
+Here's a <a href="/pdfs/aacl_2023_srw_proceedings.pdf">link</a> to a copy of our proceedings. For official publication please refer to ACLPUB or IJCNLP-AACL 2023 website!
+
 ## Archival
 
 **_An Investigation of Warning Erroneous Chat Translations in Cross-lingual Communication_**
